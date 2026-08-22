@@ -1,0 +1,1100 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="7" tvg-name="SOMOS HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/4vMDu42xeeLCE66LEMJ0vg?tags=CH_LOGO",SOMOS HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=afcf14ab7976ea3de0170ac804061b04:5531d28a3fa4de7b659ea62891095260
+https://edge-live17-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODY1Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9Tb21vc19Ob3J0ZS9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQyYTc4ZTI5MzY0YWEzZWYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMTA2Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.6ZWDHfDOq5q2q6eImmnhwMeruklHmF4L2-_2rmQ66tusyqLPo_rxS1NhuNUKV4GAMUJJr33pCdnsQ_tJRcIxTg==/live/c6eds/Somos_Norte/SA_Live_dash_enc/Somos_Norte.mpd
+
+#EXTINF:-1 tvg-id="8" tvg-name="METRO" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/Ubwa9dt2jaXMblin8aTCtw?tags=CH_LOGO",METRO
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=30040b6c7b723aee251c0dc3c4f4d84c:c8d60a61d2d9d2acd4040a21da4d2203
+https://edge-live19-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODY1Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9NZXRyby9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6Ijk5ZTNkYmZkYzY4M2Q0M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzQ1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.PhkYjMaOyil8HiKshEy_vs0htgVqukUTFcZOGvvuHABqojZW2Qy0QmkA30Qf7-IUvXs5hYZvfbTRoNfdS0UPlA==/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd
+
+#EXTINF:-1 tvg-id="9" tvg-name="AMERICA 2 HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/PKQmsFunFuubjSQPop2k-Q?tags=CH_LOGO",AMERICA 2 HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d7afc43dab940d699b61466b245369f:712b5165ff990156e6c9e580b0b4df59
+https://edge-vod06-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODY1Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9BbWVyaWNhVFYvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI5OWUxMDgxZmIwMzdjYWFmIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjEzOSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.eBKLKkYCcPK6ZlhCTTMt1o78OMola8CIaORgxWadz7-zK40iLEoCEHrfk2rHWPaPbHEKpROgBomFFXusi8PQ9w==/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd
+
+#EXTINF:-1 tvg-id="10" tvg-name="TELEFE HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/H__k71paYRrVP0funRIWvg?tags=CH_LOGO",TELEFE HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69d08ad795092fc59dbdfb194424dd92:a73948b44e9292eede50c0c654301860
+https://edge-live02-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODY1Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9UZWxlZmVIRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNhY2I1N2UwY2M1ZTZjYWYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzQxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.ffE1DrWWXmR233TbXbGPD9ohHy-mxVviq9sdHIfDgmdWV2RpmQlNOAWBAq7mtw5W9eGn4z_2OGHMp1fngWws6A==/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
+
+#EXTINF:-1 tvg-id="11" tvg-name="TV PUBLICA HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/IE0Yf-Y3qxyupJcRblURuQ?tags=CH_LOGO",TV PUBLICA HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=589f5b6f4afec0b3362cd6be2ab1eb36:6d685f3151730ca6a4be7765a46d30a5
+https://edge-live03-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODY2Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9DYW5hbDcvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0ZGU1MGVhMDYyZDU5Y2YwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM0MiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.qi-O_Sv2Ucmti1AgO6KMSFXXhrrHm3qtYg381iynXNw9_ESIBXWxHy2sM_fHiu-Ve-RST-rTLMqB-PR0Cnb7qA==/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd
+
+#EXTINF:-1 tvg-id="12" tvg-name="EL TRECE HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/44HA8QkjCvLV4Gu5Vv8tEA?tags=CH_LOGO",EL TRECE HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4aa8ec10f92b212c0cbaaa8e0591b468:17985aeaac30e62e6dad45f4df84cc2c
+https://edge-live07-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODY2Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9BcnRlYXJIRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImMyZWY4NGNmYmVlNjkwNzAiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzExIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.OjaT5ptbF_IhjfUUpym-4T3G3PvaS4x3bzobXiEqm8f5LyMSTVDUYhUgNMLvgGzWMXLRtwNFzMMgKAK43kNuQQ==/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd
+
+#EXTINF:-1 tvg-id="13" tvg-name="EL NUEVE HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/pf22T_4bnBM9_704ysri5Q?tags=CH_LOGO",EL NUEVE HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ddf62bf44e68f06a6adb810199df713:2ace15b4ffbe70940fdf04cf97e114e7
+https://edge-live18-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODY3Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9DYW5hbDkvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJhZWYwNDhmMWQxN2UxZTRiIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjIzMSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.ZzUvx-TSjagtHppg8J2NwXn8egkd5LfFtMR___ro1tPqlxAjl1zw7adAtqMVC67C6EX-LWxJh3Q-0Cizo2RTsg==/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd
+
+#EXTINF:-1 tvg-id="14" tvg-name="TN HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/tsozQzIAVMhh2R8LYB3Zdg?tags=CH_LOGO",TN HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=775d4113d76beac8231e92ed732e27d6:0854a56be655bfa9055ef0e4980f4674
+https://edge-live08-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODY3Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Ub2RvTm90aWNpYXMvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJhMWIxODZkN2FiZDlmNTI3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMxNiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.gdaaUEb_AJ2EidVKp4kqvFUZFP6MlimObnnoHxcq4TZunvv52Ef1zUIjsItnHGeeXSIm-zcFIyc3XH3KXIvSfg==/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd
+
+#EXTINF:-1 tvg-id="15" tvg-name="LA NACION" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/BG9e9Motv1bSmOQ5t3kDgw?tags=CH_LOGO",LA NACION
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3561945a15a88603aee20ea15c605d6c:7a1676bb6cc6cbb328f41626d8084594
+https://edge-live17-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODY3Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9MYV9OYWNpb24vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIwNDUzM2Y4OWY5MmJhNDhhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjcyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.cKBG9gZIIx2kMgP6FcAEfBq4uke_fnYhZ2joC3ifHYcg3i72yhdeHxV96skUH6xZwVwUrlOAvdXPMBi3lQ_WCw==/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd
+
+#EXTINF:-1 tvg-id="16" tvg-name="C5N" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/ZknRLNGxolx2xY8zTN3suA?tags=CH_LOGO",C5N
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef98ad3a4a5b9f6edae885e8bf450d3c:861873c6c69eb66df0afc3034a02a796
+https://edge-live18-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODY3Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9DNU4vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxOTM4NTQ5OGUwMzBjYjRlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM0NCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.fjO_z3B-TL2vq5wQdH8SY_u7YH5iPNIsGpObTZh_AkmP6smNmhIbkCUEk0UMqwr5SwHTgBx_A40eG5pc7F5_NQ==/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd
+
+#EXTINF:-1 tvg-id="17" tvg-name="CRONICA HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/SbhpLG6w5bpnevDhqf9b9w?tags=CH_LOGO",CRONICA HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=33ded37fefaa6c3d6878e0d555dfaffd:9e024c10af20f240a1ea35b94d147f28
+https://edge-live01-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODY4Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Dcm9uaWNhVFYvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxZjc4ZjQ3NTlhMWUxYzhiIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI0NSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.zDXj2skw2DpWduHCQvYe0X4AM-UfNQZfPU_8ez0DIWpd9n1HH5vNNrblnRF1vpfx7saOavJ6-bP9cXm6PKOPBQ==/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd
+
+#EXTINF:-1 tvg-id="18" tvg-name="26 TV" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/u5NM8LAogdMb7qWMWD1jGg?tags=CH_LOGO",26 TV
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=52e55c3298f2e07cbfe59eb48ffda940:0fb5916a14188e5eed56afb110e82af7
+https://edge-live01-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODY4Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy8yNl9UVl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzYWNkYmQ0NTNlZDFhNDkiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjQ1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.InyUzOKoOFFdD04GSkCdlxY-Vgt4L8hI8B8TniLYze7e1tjzxAIGeUWOgCE231VeiwVvIbaeqdBOxryq4kQsrw==/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd
+
+#EXTINF:-1 tvg-id="19" tvg-name="A24 HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/S1H5miC70xaoxaRogPiNUQ?tags=CH_LOGO",A24 HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=71133ea8e1941323a21acb5090c5c469:f46178e47581d410008a505eeed759fe
+https://edge-vod06-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODY5Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9BbWVyaWNhMjQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJjNTVhMjZkNTdiZDI3OWE2Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjEzOSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.ayPXn13uMVG7-Ac3Kn2Ra-k9Wr_ilisZm1OECIT8ZZjnNEbFvLjhK2xznV5ky4yNGTC5_H2Z--5PDl52J9O46Q==/live/c7eds/America24/SA_Live_dash_enc/America24.mpd
+
+#EXTINF:-1 tvg-id="20" tvg-name="MAGAZINE" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/HlbaG_QxXJ8kn5N3d-fH3A?tags=CH_LOGO",MAGAZINE
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=36bc52ea68831dbbec6a9529bc81a9e8:39858817235ad0c15640dbde56f87d78
+https://edge-live18-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODY5Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9NYWdhemluZS9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjBjMWRlOGUwYjA2YjAxMTUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.ZkeaLEZCq6dVhOEC5N2bazq52IYDknQY4IgeDzKbRARL9IEcf_Czw2dSlM7YHt-zCicih1TZs8c_fCYHJAQi8A==/live/c3eds/Magazine/SA_Live_dash_enc/Magazine.mpd
+
+#EXTINF:-1 tvg-id="21" tvg-name="NET TV" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/GOJrLfHABd8X-fMCDhVDKw?tags=CH_LOGO",NET TV
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=42803fd8c2cff83bfca0e64931c42d2b:728caae294e864b66aabe753c72df05e
+https://edge-live22-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODY5Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9OZXRfVFYvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI5OWNiN2M4NzQyMTNiMjZkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM1MiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.08piJ_rh1q6lY3blXKycPz9dE87Je0MnyTZaK9f3U8C0LT0Fv90vNrEDP05Gwu2Gvfd5ZT1yRbuoqTiQJI1ONw==/live/c6eds/Net_TV/SA_Live_dash_enc/Net_TV.mpd
+
+#EXTINF:-1 tvg-id="22" tvg-name="ENCUENTRO" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/lOPHEs1DODTCdWw9_J_KUA?tags=CH_LOGO",ENCUENTRO
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=13e166b20d99713a42e42bfe91c7330b:413a0665d266bcc76a706ccfce2a2410
+https://edge-live10-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODY5Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkYjBlNWY0OWNmNjhhMTNiIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMxNSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.aVGNkVdJCzC_yUQdNdmaGULixRkJY2jUSGxW-c-4DSNj5M2EILweFOHY9Plx_PpIgoObKuOhaKaNBKsRQ9Wu4g==/live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd
+
+#EXTINF:-1 tvg-id="23" tvg-name="CNN EN ESPAÑOL" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/VjWfxMDnAj0_OaHyfifOtw?tags=CH_LOGO",CNN EN ESPAÑOL
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c63f6550cfa1dd89e607e6d10e0cd8e1:30e26cc32d090bd86ad1e350fed5ce68
+https://edge-live08-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODcwIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9DTk5fZW5fRXNwYW5vbC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6Ijk5ZGIxOGRhZjYwZjNlODIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzEyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.19uz-PtIxrC6u3fw74ySlBSNZl0K9TdDhzcdqe_pAlGAX_1qzB6mCMz1LKalkaKpDWWvddI0ygPPihxF7wIs1g==/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc/CNN_en_Espanol.mpd
+
+#EXTINF:-1 tvg-id="24" tvg-name="ARGENTINA 12" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/LhJYx1DbJmE9D4tKJOZaOg?tags=CH_LOGO",ARGENTINA 12
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=723d8d918d61cee1f708ec849b6498a2:b4b48cfccc1cddcc73bc7a7df46cb531
+https://edge-live18-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODcwIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9JbnZlc3RpZ2FjaW9uX1BlcmlvZGlzdGljYS9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImRmNDExM2E1MGRlMWE3NmMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzQ0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.Og_wbA4cmeurM4iqMdw-Uj1LnsjaiJcfDphCsFwU8RYBzFm6wTydpsGxy_-DRv2hWic9wxnZXpYfEXG1xzTesQ==/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc/Investigacion_Periodistica.mpd
+
+#EXTINF:-1 tvg-id="25" tvg-name="BRAVO" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/s5bcN_UDJ3TW45O4-5-yrw?tags=CH_LOGO",BRAVO
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d67ea3430c0dd019e820535765268109:7d7bf2d1b5f4c7c97138a1b9b98e0675
+https://edge-vod06-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODcxIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9CcmF2b1RWL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMzJiMzg0ZGNjZjBmYjEyOCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIxMzkiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.joosZi17fJGJpc55fxwunj88_ADoGC6o4L7p96VB6P3ouOo19LV94B2qEjkb73qjDFfvF1GTheGaHy5vISzXnw==/live/c7eds/BravoTV/SA_Live_dash_enc/BravoTV.mpd
+
+#EXTINF:-1 tvg-id="26" tvg-name="CARAS TV" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/KVCHblMn-l_L9X1NjDYJkw?tags=CH_LOGO",CARAS TV
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d98d90fee7870886f6c4fc8eac0b8bf:252c2730d425e3d387d60b382d5265cd
+https://edge-live18-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODcxIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9DQVJBUy9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImYzZGIwNWY4MjgxOTkzYWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.cdf5YKuPwKKUyeIvi_UMqWf9Z39vcnV7fDYS2k8S-dE7dUkXQ647aKOF1Z17tPQ5m2Ikj2kMOXygS1shmX56kA==/live/c7eds/CARAS/SA_Live_dash_enc/CARAS.mpd
+
+#EXTINF:-1 tvg-id="30" tvg-name="KZO HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/h0sFN_bK9VXxjOK-Ko1k3w?tags=CH_LOGO",KZO HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=71c9374566b0b5517083bc923175969a:56292911445ae704f390669ec5d7faa7
+https://edge-live22-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODcxIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9LWk8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzMjViN2Q0NjNjMDMxMDk2Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM1MiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.L2FDlAc2c60qa0nhZl5QilzJMjV0E10PaY1yx9K6JSA7KIEG4BC9Z23T9LykfVJYAXYNP2G-zBAaLxsn4bjU3A==/live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd
+
+#EXTINF:-1 tvg-id="36" tvg-name="DIPUTADOS TV" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/o7gsJ0wh3eUYfVzs-hSOcA?tags=CH_LOGO",DIPUTADOS TV
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=83404a1a63bad8a1d21aabf89f6436cc:b4ce534c34911e703ffc780653bb2a78
+https://edge6-ccast-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODcyIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9EaXB1dGFkb3NfVFYvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIyOGFjMTFjYjY5ZTkwZjkzIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjIyNSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.vT3qANXPdc9o-CjmC5YX0xo0-KwM-Xny7C4ssqMNpSfuLFF4NNaqm9hlWCGR6pT86vuPtclSP36YQ2aNdacv1g==/live/c6eds/Diputados_TV/SA_Live_dash_enc/Diputados_TV.mpd
+
+#EXTINF:-1 tvg-id="85" tvg-name="MIX TV" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/wFcELFDufR1XY3WICrh5Mg?tags=CH_LOGO",MIX TV
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=65d71143cb18b78e179cee85f858d5dd:24eddb4521a6b36f7770d6a4f2d907ee
+https://edge-live19-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODcyIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNGVkcy9NaXhUVi9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjcxNWJkODBiMjY4NzMxM2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzQ1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.ufqvAPqfQ1ZWBYNXqTCmHIl3waZl2wisVP9AApb9QMqo1_TipNKXK_klmIFOh4u2xzNmrsCScAL-DWV7FcMK6A==/live/c4eds/MixTV/SA_Live_dash_enc/MixTV.mpd
+
+#EXTINF:-1 tvg-id="90" tvg-name="CANAL 90" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/2S10DKPPNnGy5E3Vsv81LA?tags=CH_LOGO",CANAL 90
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fb360cc7cd30d761f0ed1b7df5d4768:b2118e1b4d1cc0b3664e66c886bd673d
+https://edge-live10-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODcyIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9DYW5hbF85MC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImQ0MzMxMDVjMjIyOWY4ZTQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzE1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.wlIGLPRzh995P5fFYBQa-6ng7h1yGXWYqazIzZl75ovVCMbCC2OGS3lyKpzEoBvdAecLJSigyFP_KF6srGZE8w==/live/c6eds/Canal_90/SA_Live_dash_enc/Canal_90.mpd
+
+#EXTINF:-1 tvg-id="100" tvg-name="DEPORTV HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/XMlPUQ7mIvaDO707-0z5MQ?tags=CH_LOGO",DEPORTV HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e721cdf9043ee562296005056a2757de:70259c9d827905e8088cdedceb56ae87
+https://edge6-ccast-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODczIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9EZXBvclRWSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2NWU1OWFhZTg4MjdkYWYzIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjIyNSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=._7fMaB94iKHpa54GXpv9d11tZ06_Gio9uzH5TcGL8ADSKzKgJ8CV_sy9jo0zdjliaCSvjCL9jTHyTN2hdmQ0pg==/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd
+
+#EXTINF:-1 tvg-id="101" tvg-name="TYC SPORTS HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/vub_hfkh4B1JFwp7LQ-GrA?tags=CH_LOGO",TYC SPORTS HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b1e6825350fa1bc0032f8f36287e006:11fc540a4539d18f91cd403a5ed42284
+https://edge-vod06-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODczIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9UeUNTcG9ydC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4MjE2MDkwOTE5YTRmYjEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMTM5Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.rR8CQ6lY5KPmwO8Ha3ypN_29JxQVYc5A_fKq40x6fx7v7RUat-KVCNAor_LC0JvYCVI5dXCQCaI9tIA4aAaPZQ==/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
+
+#EXTINF:-1 tvg-id="102" tvg-name="ESPN 2" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/pKel4txgUUES1wvAVQK9DQ?tags=CH_LOGO",ESPN 2
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6eab53cf8ea962b999c59c298596a65:10c103ae76f99620d66fa75f2c03302a
+https://edge-live02-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODczIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FU1BOMl9BcmcvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI3NGI2YmJlNWY0NzZiMDZmIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM2MSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.xFEEge0IHaLG7-ETtA6yhQjqKfnQpARcdmplM9Qw3iUT2iI2jmdwl8AvP5nyhZKkJS6ss-rNXifrvDgUXLKe6A==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd
+
+#EXTINF:-1 tvg-id="103" tvg-name="ESPN" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/6ujI2dFhkwCxWJhbEOCqmg?tags=CH_LOGO",ESPN
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d079ffa3757e8335611fc48be6ba47ff:05059d1cb21b6708a55e9c26fb38e2f3
+https://edge-live09-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODc0Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9FU1BOMkhEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiOTk0ZTdkYzQyNDc2ZWYyZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzMTQiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.1vg_k97oEmwCXWHMpFQNMl3XFHtqy2u1d_smyWWUD3AqZg41IyFUYsmxCCA1bALrsTGof0y3aqxco3KLLRk71g==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
+
+#EXTINF:-1 tvg-id="104" tvg-name="ESPN 3 HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/GJZTYBktwR7UdbtNaK3PDg?tags=CH_LOGO",ESPN 3 HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=deeed0f44c6b45e064f4d5064486e821:bf89ceeb93564ddc603ba6afd8c9266a
+https://edge-live16-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODc0Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9FU1BOMy9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImQ5MzE2MTFjNWQ5OGY2YWQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMTA1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==._pM-_JBVQ9yAVVdlNb54On_QX6G-xGDacPPwKCxL8eV7wCK2x7I3IVfGdS1sELrImnB__0k4yUt7z6cUHl4CvA==/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd
+
+#EXTINF:-1 tvg-id="105" tvg-name="ESPN 4 HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/jGyt-p8MW55TcZMkzRBHLw?tags=CH_LOGO",ESPN 4 HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d02981e6faeacef49c90fdb053ab641d:645e13624e933841b1ea35cda1b55bd1
+https://edge-live18-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODc0Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9FU1BOSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4MjRmNjZmMWExOTRmZjFjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM0NCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.Fi0OInYYSHbBc0PtT7hTBjAIZKmRtsRSSHAzOT2VreXZPbBFN1c5le8LnzGWmwQumATiER-9cWe0C33-anSTOw==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd
+
+#EXTINF:-1 tvg-id="106" tvg-name="FOX SPORTS HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/HAq2thFBSFQ6BPwjbeV3mw?tags=CH_LOGO",FOX SPORTS HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=37730b00a5f92084c47a8129e84559f3:a2e20a45a057ff4e7c0bc2ad49e6f3e5
+https://edge-live01-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODc1Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9Gb3hTcG9ydHMvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIyODVmNzExMGEyOGRmZjFiIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI0NSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.5mnw_D5YEc-C0KWiAmf8zDbyzYfVYPFH2hNQ0PX9yebFhoODUYmp0u5dXvgfcSb-sN6TSEZmEQ9wJD1EyP5E3Q==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd
+
+#EXTINF:-1 tvg-id="107" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/8lNQixZEsN3Eadq_eLSVqg?tags=CH_LOGO",FOX SPORTS 2 HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b0ab680ef94a1842185fa78a830cbd7:23129ab5572aeda7607c920655c0dbea
+https://edge-vod06-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODc1Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9Gb3hTcG9ydHMySEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI5OWZjNzk4ZmUzNzYyMjI1Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjEzOSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.t-Pz8lobINcOkwrMkZlowgBcfzVqZEv3anuFrEQU-bYJHPrW7wlY_z2JK6qAUcFYr-j8ZyzErDWj34dUI7Fd5A==/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd
+
+#EXTINF:-1 tvg-id="108" tvg-name="FOX SPORTS 3 HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/aAian9WeLoU0vTudB9xL2g?tags=CH_LOGO",FOX SPORTS 3 HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4629bd0ae30c0e72af111fb948fada1c:7864154c679e769e7f164ba083c8fad3
+https://edge-live05-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODc1Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9Gb3hTcG9ydHMzSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI1NGQ4MjRkYzgxZDNmZDI0Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMyNCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.Un-LTrPePFlnKcjDn-gzETzBOEtZh1OpGEOYtycg-97qBGWdbhQAFx9QYqGe9ussDwpj2sJ2zN-8_8wPNrYSjg==/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd
+
+#EXTINF:-1 tvg-id="109" tvg-name="DSPORTS" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/YIJDr-r03_wmAKa8DzDDew?tags=CH_LOGO",DSPORTS
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=86d19904429f78baf98cf1fd481c430e:5229197732a9a3e109264b272bd782f2
+https://edge-live02-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODc2Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9EU3BvcnRzXzEvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI3MzEyZWNhOTFlOTMxM2RmIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM0MSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.MiBSEpkF5X2rUnqpb9892r_-5kRPOgjD8zSMS4QApldbCBVC9mvcyNEvFzqIS9-XqEZN8_ZbGxgf15xG8aBNfg==/live/c3eds/DSports_1/SA_Live_dash_enc/DSports_1.mpd
+
+#EXTINF:-1 tvg-id="110" tvg-name="DSPORTS 2" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/Ol1k8o68C2JoewlB-N2rrw?tags=CH_LOGO",DSPORTS 2
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=33848c262a3cc8c0eb8b34cdb9691f04:fd8e52ad745cec9e62263928a10f3abd
+https://edge-live18-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODc2Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9EU3BvcnRzXzIvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0MmRhZWExOGQ5MTlkMWE1Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjIzMSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.53iIODlO7-Sw9D2skDD3C2Io-5BX982SLjTy89zTRLkqsG6k6bLF5IKuWcL1r2ZtWc9f2Gj1p42Nvk9S773H0g==/live/c3eds/DSports_2/SA_Live_dash_enc/DSports_2.mpd
+
+#EXTINF:-1 tvg-id="111" tvg-name="NBA TV" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/hbMAAzaqDDeSCIBhaCW_OQ?tags=CH_LOGO",NBA TV
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a9ded52bb6b4a95ceaf0225f6ec950d:96ddfcf278a5103f3a4535efcb3cada2
+https://edge-live03-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODc2Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9OQkFfVFYvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJhNzZmYTM3ZjMxZTBmOGEwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM0MiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.jsUZdIXAsJ5RU5qBArc_qbDbfyogXfjrXS-1uDn3dNfZpX9-yJraxgq3COdZ9YBRtzAzF6083hbYwyQ_-uZabA==/live/c6eds/NBA_TV/SA_Live_dash_enc/NBA_TV.mpd
+
+#EXTINF:-1 tvg-id="112" tvg-name="DISC TURBO HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/rjlPBFz0211asbTWEdwy9g?tags=CH_LOGO",DISC TURBO HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f55ecc6486bcae9fd3f53271fc16ad8:eeb7df5969fc58b5771f2f3bc7502ad5
+https://edge-live16-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODc3Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImZlZDI1YjJmMmE1MTY5ZmIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMTA1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.6XcGsp7LMIDfrbM_jePL3oe8WOzGgRHXXK40YmCvKvSFl7h27_w_KpwJ9REBcMNDtKPuyxuiLkv5AppRNo2xeA==/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc/DiscoveryTurbo.mpd
+
+#EXTINF:-1 tvg-id="113" tvg-name="PX SPORTS" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/_3oo9pwvNsFdzJfzNdx2zQ?tags=CH_LOGO",PX SPORTS
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=61973e2f6b81657862b645fe2a34416a:2786c5b66d05cf6f1a42b8c270453319
+https://edge-live18-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODc3Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9QWF9TcG9ydHMvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIyZDc4NmM3YzhhOWJmOGQ0Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjIzMSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.lz9MPRzQo5XjS2UXaJjWrnH2XTwEldkXLh48lKSL60fhf6_qBXxH_IDrielPOtJRi0vkLtoRbLOt1YgjsTEZAw==/live/c7eds/PX_Sports/SA_Live_dash_enc/PX_Sports.mpd
+
+#EXTINF:-1 tvg-id="114" tvg-name="EL GARAGE" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/VMtd4DTffIxtznKvY0LNyg?tags=CH_LOGO",EL GARAGE
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3ea9cbb34e7f4dbf6156a68f913d6d7:1c00f433ce482e2b8766a6a020634947
+https://edge6-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODc3Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbF9HYXJhZ2UvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkZjJmMzY5MmE0Mjg4ZDBlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjIxOSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.k4GPQ6U0IzpekbJQab1f19u6v_pmxpCissdwWropWBi8lY1xLNh6ekVnXJvGH658dcuxWZh4MJX5KhrqpOEmpg==/live/c6eds/El_Garage/SA_Live_dash_enc/El_Garage.mpd
+
+#EXTINF:-1 tvg-id="115" tvg-name="AMERICA SPORTS SATELITAL" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/qPhxg2V8AzmZJNNmXIuRKA?tags=CH_LOGO",AMERICA SPORTS SATELITAL
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3269536fedc69cba1e0281ff62cc4eb9:5246eedf4e7af3771f80899db667dede
+https://edge-live01-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODc4Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9BbWVyaWNhX1Nwb3J0cy9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjZlZTFjODZmN2E3NTYxNjQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjQ1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.Y_U9u5dDeuhUKus6r1Mq6HnUT0mQGr8MbOBCyAzmsAWkcrlPBDTqPxhLljLMGIq8fqM4FALjobjTbizioIu5zA==/live/c6eds/America_Sports/SA_Live_dash_enc/America_Sports.mpd
+
+#EXTINF:-1 tvg-id="116" tvg-name="GOLF CHANNEL HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/zqVvs3FsL8K_dCUnWqt7SA?tags=CH_LOGO",GOLF CHANNEL HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fdd337296e43e69aefee1bbc4f04e663:d9883167d78827a0ec24dae99e03a3e2
+https://edge-live14-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODc4Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9Hb2xmX0NoYW5uZWwvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4OWM3OTM3NzY4ZTA2ZWVjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjcxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.aZcgGjYzMzZViNmYGuCwGkfod90qgwvFX7TOHc0mHrzlLABph806S1QzDhHjRbP06IwTmiqWXlunuRIuaDNACA==/live/c6eds/Golf_Channel/SA_Live_dash_enc/Golf_Channel.mpd
+
+#EXTINF:-1 tvg-id="117" tvg-name="EVENTOS HD 1" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/dEOhDb7vsbbZcm6GlzVAHQ?tags=CH_LOGO",EVENTOS HD 1
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fdb996352a45b339b86f3eb336af36c6:21b8543c13b2b87e0e097602a71f3f91
+https://edge-live23-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODc4Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9FdmVudG9zMUhEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYzkzNWIwNTU0ZGY5ZDY1MSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzNTMiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.50KgDNuKocIbkJKelmDUA8rNztWjdSnPN0R1zewfoYNFFhV8-ZIR288DDOYrmtvPXkpwMWajJ7Nuj8DiJtnZHQ==/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
+
+#EXTINF:-1 tvg-id="118" tvg-name="EVENTOS HD 2" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/j-4fXBBL4rvQ2EQFknGe_w?tags=CH_LOGO",EVENTOS HD 2
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=02c5f46dec4c3feadde6f5b0b0c6e9b6:89186f8c250f8291b4211ac1b2bdc103
+https://edge-live15-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODc5Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FdmVudG9zXzJfSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMTg2NTY5MjA0YjdiMWU2Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjEwOCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.hcRdJX4Mr3OdR6R7stj7OCdCUf67TeujoeZV75onBNEC7hzXM0noEKwFpoA4VyPv39xs8b-wTe9XoSSbe8V_BA==/live/c6eds/Eventos_2_HD/SA_Live_dash_enc/Eventos_2_HD.mpd
+
+#EXTINF:-1 tvg-id="123" tvg-name="ESPN PREMIUM" tvg-logo="https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/packs/futbol/fixture/10059.svg",ESPN PREMIUM
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c502892e037a9f34827147b2b24e42cf:2531bd34bec6c0e8fa4e07aedb261ade
+https://edge-live07-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODc5Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI5MmNkYWU4OTU3YWE2MTBmIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMxMSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.LAQf0-_ufhdyguEeaOn-2LQZWFaWBhSv1uRMnAnZebo4JMfd5mjavOPkH6jnxHwX15GcAHjC68Nu0uqavASAlQ==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
+
+#EXTINF:-1 tvg-id="124" tvg-name="TNT SPORTS PREMIUM" tvg-logo="https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/packs/futbol/fixture/10060.svg",TNT SPORTS PREMIUM
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9fb56301bc7687baf0b1a61def9a007a:947d2294ba67256827e8e97f267e71e0
+https://edge-live34-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODc5Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9UTlRfU3BvcnRzX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNDI1YjhiNzk2OWMzYzIwYSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiI3OSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.w-oQ_O77OPjt7gPtv9e38yuEfmqWqGW5N4ufxR1p1WuvRxgZgJaM6IHtOTwyC9MULpL__tZNmPU2AekVeBedig==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
+
+#EXTINF:-1 tvg-id="200" tvg-name="PAKAPAKA" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/dYC5bzropBtx3w3hG3aMKQ?tags=CH_LOGO",PAKAPAKA
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e9c421a7f205ca08e62ebe3ca40e3433:65fa197dc2f472739c1d84fcb5f880cf
+https://edge-live17-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODgwIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9QQUtBX1BBS0EvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0MGZmYmRlZTBkODljMWI5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjcyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.DUoCiAIaywgWuzp-d35QUPupIQAjwgM5zcl0oz7Mp0WaYRhr7VGVcDjrkrpXETvNlm--nhafmniEcSbVGggh0A==/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd
+
+#EXTINF:-1 tvg-id="201" tvg-name="DISNEY HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/O-yxzBoD5wK-vDDkbEmrbw?tags=CH_LOGO",DISNEY HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=138981ed5f75527232593af4c92c9007:0f05c78bd7e8bc3e9e0f708c1424f34b
+https://edge6-ccast-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODgwIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9EaXNuZXlDaGFubmVsSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxNDRjNzU5NGJkZGExM2EwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjIyNSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.eI8NEST6Y8aZVfoI5J5_iyNatt4VDyyGWcKgOSOUIzlx9yO7aXRG6DJl1b8lWNSbX-xVn-V0SCvX_4mjl5pEzw==/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd
+
+#EXTINF:-1 tvg-id="202" tvg-name="NICKELODEON HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/uB3dgqC_95tiEJj2Bl47_g?tags=CH_LOGO",NICKELODEON HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=89a6be32a372255475c03d910be1eae8:4446ac987204570bbebb8ee5a4945903
+https://edge-live02-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODgwIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9OaWNrZWxvZGVvbi9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjIzZDM5NmM2NDJkZTQ0NTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzQxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.PI0Xai6M2WwhuEXT8Cbh_Ix3YFe6EFtQiwO6hloGPqZ-czt3s8NcuhupwroaXl2s03lZ655l8PpEdvHbiKEqIA==/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd
+
+#EXTINF:-1 tvg-id="203" tvg-name="CARTOON NETWORK" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/LHjap1OMGwF3fDq3bcamfg?tags=CH_LOGO",CARTOON NETWORK
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e77eb4ef8dc7ad8191dc71d04f8fc3b3:b4f9398a9261d11fcd6018acffab94d1
+https://edge-live09-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODgxIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9DYXJ0b29uTmV0d29yay9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjY2YmVkZWVjNTY5MWEyZjkiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzE0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.56msgM9MFyG7gT0RO7kAAIg3Fq3exwXp-MmWTSy8ktaus6EStZDKWahaELUCl2PeGC5nCnzyPMSXCrjp4rc1aA==/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd
+
+#EXTINF:-1 tvg-id="204" tvg-name="DREAMWORKS" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/6l_DEbSF66b1Bt6_TpqjhQ?tags=CH_LOGO",DREAMWORKS
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=390fe5ab3c92229bf7042ca0eec699a8:33a0b849889f678c60156093dc07a5ca
+https://edge-live21-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODgxIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EcmVhbXdvcmtzL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYzNlNjQ0NzRiNDQ2NmE5YyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzNTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.9t2SkbDbmrP1qhjsGk9hqCZvycDvj4QjH5MHDZfVBR_7922P7iIvxiaW6V6Ad7kZPVNtXKSWpWsd7GncyBCd_A==/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks.mpd
+
+#EXTINF:-1 tvg-id="205" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/awF5jN8kYIm6Fw7dd4ktEQ?tags=CH_LOGO",DISCOVERY KIDS HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a2c846ad90eb65c697b31e1b0728b53:9cc6907a95fe0c4241a7103f25650f64
+https://edge-live03-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODgxIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9EaXNjb3ZlcnlfS2lkcy9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjgxMmZmMzJlMmIzNmUyOTkiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzQyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.YooDF77h1JJ-YC1zks9sAw8y1-DFU4mkZ4q6vCy6v1ny4QNw9rUuOaGYXil5JZ3jUVpoC8Q1S3UOgE16M7ywFQ==/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd
+
+#EXTINF:-1 tvg-id="206" tvg-name="CARTOONITO HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/whJAVEBF9f5zYbQ66Bqx2A?tags=CH_LOGO",CARTOONITO HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=db0e97e96205d545471ac982444cf3e3:90b8bf6d1c8cf8761f75470f182e3dd1
+https://edge-live17-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODgyIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Cb29tZXJhbmcvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxNTczMThkNzQzYjkwYWRiIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjEwNiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.vk0qj7nCMD_pWO6C33eOsr3T7V5IhgVDL_Wf6p6MjyuFi5eFrUkOUSco4eRPID_C-10oDxyPWfVjqYAgIG-Xkw==/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd
+
+#EXTINF:-1 tvg-id="207" tvg-name="DISNEY JR" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/buoo9IJLHiHWlwsIXmsCfg?tags=CH_LOGO",DISNEY JR
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=632429cd9963a76f90951145da4b22e6:bcc852793cf3f85a1e0acd0509853e47
+https://edge-live20-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODgyIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNuZXlKci9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjcwM2M3YTg2NDE2NDdmZTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzE4Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.Cl4K9r_woZM3j1mmuvYV28S42TVcUTr-YTL2DT75b3o1BC4JvJaeVOnGZqKyn7gCJBxLZ2RFcF3V0z4Rf4VNCg==/live/c7eds/DisneyJr/SA_Live_dash_enc/DisneyJr.mpd
+
+#EXTINF:-1 tvg-id="208" tvg-name="BABY TV" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/PidsWNhfr_UvjHI_pVHK8A?tags=CH_LOGO",BABY TV
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6cc8d4a7959bcc18413927f1a498a7c:195b94d2ff3357e93d24e296c39b4326
+https://edge-live15-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODgyIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9CYWJ5VFYvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NjA2MDNlMTNmZjI1OWY1Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjEwOCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.ijwu5dSAl3hK3h-qDUm_Om6SMwBkT6o5qFcxJxgV348N14vKO1r6M69_Q_3doIS7zAyUHLyVYr8v90EaTDNfEg==/live/c7eds/BabyTV/SA_Live_dash_enc/BabyTV.mpd
+
+#EXTINF:-1 tvg-id="209" tvg-name="TOONCAST" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/Prkn-200c1L8pLHnVjDkRg?tags=CH_LOGO",TOONCAST
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b9f0bdb87e459cc9a02f16a58fb1e8a:e112e71f1b991d61dd26719e2de903b6
+https://edge6-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODgzIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9Ub29uY2FzdC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA1NTQ3NjgyNTMzZDRhNWQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjE5Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.NLfQBE-AdGWp1QVlAT7Dt5djrUa5vfTr_uq73DAIWEU3DXs29-TPlgAZovtXNBuM1k53c4IALuuatS58F2FEBg==/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd
+
+#EXTINF:-1 tvg-id="210" tvg-name="NICK JR." tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/9SuAkXBoCboIuswqt6YTFg?tags=CH_LOGO",NICK JR.
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e1fb2b59b9d83c11466cb54b31928e2:3bf19e8d8956daca91daffb746f08bb1
+https://edge-live14-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODgzIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9OaWNrX0pyL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZGIzODZmZjUxMmJlZWQ3MiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiI3MSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.mYidqWa-djwW6xSslw4AQIERPBRefUvyZldVYWwNjKTejQcEvI9AtIpc2nPb1Uww0HKSAwznU2F_Ds7nkkBodw==/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd
+
+#EXTINF:-1 tvg-id="211" tvg-name="EL CANAL DEL PAYASO PLIM PLIM" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/tnqww25oGSPXrqamnOOqsw?tags=CH_LOGO",EL CANAL DEL PAYASO PLIM PLIM
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b34ec5be9a7d394e5f49a5ea55ac4f6:3e8cca6f945a3a4c9984ae528c2407b9
+https://edge6-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODgzIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9QbGltX1BsaW0vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI1NTZlZDEyNzZlY2FjNmQwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjIxOSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.lZ9llvXG84dGUpz295xSnG3ZmQhL8_IeWKHrMBYAMEDis7cHS1zUtk7bWCuUFUiUNBjZOTIyU1ad0DFVplK38w==/live/c6eds/Plim_Plim/SA_Live_dash_enc/Plim_Plim.mpd
+
+#EXTINF:-1 tvg-id="212" tvg-name="KIDOO" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/PNtwH85WxWLCq9YQDAL3UQ?tags=CH_LOGO",KIDOO
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d073f33950953eba4e8bb7f3d5c228f:9afaff0e76d8182b8fb794f1579aefd4
+https://edge-live31-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODg0Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9LaWRvby9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjgwZDM4OTcxNjVmZjc3ZDIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.WLJPU3_eU_0E0OTnuDfpVhBiBSG7QbvUIsyYrvXUufu6o9sGbUG_188qaHqZLySjBbTxBYi4Myy0RNiJvbIl-A==/live/c6eds/Kidoo/SA_Live_dash_enc/Kidoo.mpd
+
+#EXTINF:-1 tvg-id="213" tvg-name="EL REINO INFANTIL" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/VZirRVsFrCclyGZf9mHQlg?tags=CH_LOGO",EL REINO INFANTIL
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6e4e7306f1dac49fceecc6ce0bebe1d:6d02fe9fc3938bb268405ad1693f0a5a
+https://edge-live07-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODg0Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9SZWlub19JbmZhbnRpbC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjdmYjEzYWQ2ODgyYjUyZjkiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzExIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.zGOrFbkuNFW0bx3N2ThOAnqx7kXghBCn_tcdRYzkgXlm5SnuwlsR9WeQIiJ1j_aIQ9Zh__c54jvs2gurVMCeSg==/live/c7eds/Reino_Infantil/SA_Live_dash_enc/Reino_Infantil.mpd
+
+#EXTINF:-1 tvg-id="300" tvg-name="CINE.AR HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/lGD2sQr1S81F00lrPl20xQ?tags=CH_LOGO",CINE.AR HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a11a38b78f2a44380bf3954b169066e:4e84e73a2ddfca8c8f473023033e0649
+https://edge-live04-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODg1Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9JTkNBQV9Udi9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjhhMDdhNjZkMmY4NTYxNzAiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.8JBe-xQnnSzeo3RVgFuPdoPNvOBFmS6P3Y1gj0TSBbqBwGW2T2ZzAooXfM_kGYf8drYnuuZrOGyntDBGJorU0w==/live/c6eds/INCAA_Tv/SA_Live_dash_enc/INCAA_Tv.mpd
+
+#EXTINF:-1 tvg-id="301" tvg-name="CINEMAX HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/jgJnzF9fzNCiCuglhl3-EQ?tags=CH_LOGO",CINEMAX HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd84db183866916b15366b4852e68da8:1201b1f0ed299a46ddffabb5c8553793
+https://edge-live17-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODg1Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9DaW5lbWF4L1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMzNkODYyMTQwMmMzYjIwOSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiI3MiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.ssG9Xqd1bF7gw4k9nNx4re_nKDhSTOgflzcxo5DK5MYJ96T-SrXQfcwxhDN8XadiU9U4fJ5F4o9GAeLNou1AIg==/live/c6eds/Cinemax/SA_Live_dash_enc/Cinemax.mpd
+
+#EXTINF:-1 tvg-id="303" tvg-name="VOLVER" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/1yxr6LbewhS52a1JGKqpTA?tags=CH_LOGO",VOLVER
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=277df1cbe2bc86d555780d59eb7f2740:306cb0274acd57bf70c7eafc643ebb4d
+https://edge-live03-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODg1Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9Wb2x2ZXIvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0NmRlZjRiMjI3YjI4NzY4Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM0MiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.hilD4GkAYqKDnVJ8AnzNiYpPdOnXwFqHT0OkdaR17y-KUmphp720-njjtdeac2HQlr6M8MmU4r1iewjxDwsmGA==/live/c6eds/Volver/SA_Live_dash_enc/Volver.mpd
+
+#EXTINF:-1 tvg-id="304" tvg-name="SPACE HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/FZXKTS4s12W5V3cpF1QM4g?tags=CH_LOGO",SPACE HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=32684b675439d127a5ab1e07b2a57242:e169f625df475d6d1c014cca1a52a251
+https://edge-live18-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODg1Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9TcGFjZS9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImIxN2YzMjVkMjhhMDkzMTciLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.egCm4Uedp0yGoKj64jeHJxHA6jS-KspJNj3_msyR6j9LYKPlMo6sveE8f8Gs0_78nI2VGd4evke_CpTrwPofQQ==/live/c3eds/Space/SA_Live_dash_enc/Space.mpd
+
+#EXTINF:-1 tvg-id="305" tvg-name="CINECANAL HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/v5iYyWemjEtuV8k0QnDLug?tags=CH_LOGO",CINECANAL HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=98b31a0a125d81ef4c9caf1683f55444:7ec3df0771fe86c9f405765ce9fb5204
+https://edge-live23-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODg2Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9DaW5lY2FuYWxIRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjU4MTZjMzg0NzhjZGIzZjQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.rjfZV7QDf4oAfnRAMPiNRA7pxY_pruvDL9fIXCyw5BJsu_Dtj1SQcUtTIgj5igcggGWh6xvoXltPgp8oI0TTTA==/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd
+
+#EXTINF:-1 tvg-id="306" tvg-name="TNT HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/HOsbHOrwv4b-eMrGQHgLLw?tags=CH_LOGO",TNT HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=61d9873e1f281cd0223acce773cc08b0:3dda0d89ece37c244ed8cb7e90153555
+https://edge-live23-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODg2Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9UTlRfSERfQXJnL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZjdmMmU4OGMzYTUyOTk0OCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzNTMiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.hintyBUAImyQX7vG0HAbWlW1FEdN-Isx7e87G3GWkVORKQYQh-RAAHBbWDOf9qSRPGhOlrDBr7Wr4wE6CSFX2w==/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/TNT_HD_Arg.mpd
+
+#EXTINF:-1 tvg-id="307" tvg-name="TNT SERIES" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/lSoF4Q-hEcUAjewmiH-4lg?tags=CH_LOGO",TNT SERIES
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=613a3dc25b1d3ed4186e2a399ac7f081:7b5cf1cf7aeda446359bbcd23b5771b6
+https://edge-live02-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODg2Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9UTlRTZXJpZXMvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzA1OTA0ZTU3NDg5ZmM0Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM2MSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.Jx5cfLjyMGevqDwgCeqcvdoUTAZSnz2eIbRyKfNAL_XMFJ7Mib3ym6Ef8yby4W2ct2f3XLRd5nY5mold-i1vMQ==/live/c3eds/TNTSeries/SA_Live_dash_enc/TNTSeries.mpd
+
+#EXTINF:-1 tvg-id="308" tvg-name="FX HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/ca4ji9rF9Sh8CkWKki8Pzw?tags=CH_LOGO",FX HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9701932cab0e4aa3b8078176d5d54dd0:76819026588b16fd7083436b2b94485e
+https://edge-live34-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODg3Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvb3V0L3YxL0ZYSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmOWY3YzE0ZGI1YmM3ZmFlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6Ijc5Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.Lgs6saElH-DfWMSERZ82UXjnubIfpA-UHvP91DNi3NLagpL7SlvBjyGi_-3KgWaEpKS86CDf5DGhoFA7XODAWw==/out/v1/FXHD/SA_Live_dash_enc/FXHD.mpd
+
+#EXTINF:-1 tvg-id="309" tvg-name="STAR CHANNEL HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/pp9P0CQ3Tr3saLnk1K2AgQ?tags=CH_LOGO",STAR CHANNEL HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc14190acc872e204f3973c75b6439f2:34cf13899db248a7aa2c1deb288d75ef
+https://edge-live02-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODg3Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9GT1hIRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImIzY2EyODMyOWJlMjE2YjciLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzYxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.kpRxHEPd8ko7ACfbH9az8Q3oy_9-H_avS76HqgCxY4VyzKkjYiwsAGyUVB4TmrAB_BDlv1yiwp81mscoEBZ80w==/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd
+
+#EXTINF:-1 tvg-id="310" tvg-name="SONY HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/C_lt4eueyd65TOmGP5CVxA?tags=CH_LOGO",SONY HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0ea1d3cec5fb73c67b07463bf490c40:b53f056deb062277d1b201a6086e98f6
+https://edge-live18-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODg3Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Tb255SEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmOTMzNjFlNjNjMzg0NDMxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM0NCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.fFin8YtpCk7EjaVhzdfeeTU7c4-kdvk_I6PEuuwQ8Fz7CoM0kRWoFxjm8R_DiqzjEAcS9DlLQu8GAxu8ryYbzA==/live/c7eds/SonyHD/SA_Live_dash_enc/SonyHD.mpd
+
+#EXTINF:-1 tvg-id="311" tvg-name="WARNER HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/lEJaQrd2zxfbq4yG7GVGJw?tags=CH_LOGO",WARNER HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=07cef02a41651642cc35946c1b0fbc49:be57342c7cf6e70aa851c0d1074d11c0
+https://edge6-ccast-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODg4Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9XYXJuZXJIRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5YTMzMTE5NjA5NTc2ODYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjI1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.IJe2Cfc097Ak_6jUcFKmiBM7Xkq59N1nszgAiWGeuSSVGi3cNjuC7sFzdsvtbRXVhi7bsDEt5vBlAxwfPhcvWQ==/live/c7eds/WarnerHD/SA_Live_dash_enc/WarnerHD.mpd
+
+#EXTINF:-1 tvg-id="312" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/ciwOM-VXylKqJzf9viWjeA?tags=CH_LOGO",UNIVERSAL CHANNEL HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e0bb7db70deee6be9b881a5bd1af6453:88c72f8626a9d7a9ca222fed62e1e6af
+https://edge-live15-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODg4Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9Vbml2ZXJzYWxfQ2hhbm5lbF9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjIxZGU0OGEzMzMyYWM4YzUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMTA4Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.9GwqxlLud9meqkJk5-Md5-Uhd23sF14BK3mitsKRhPreGBWiakScGmCiC8Pm5tn7nbY4FwEkw5HdJjgX6q_Z1g==/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd
+
+#EXTINF:-1 tvg-id="313" tvg-name="AXN HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/PBAhfCPIZYxtjyckE5YRbg?tags=CH_LOGO",AXN HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=95b9c884a97447ecab423d054cc499aa:f57499f1432bb70e9cb9a0ebfbef2da4
+https://edge-live11-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODg4Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9BWE5IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjhkODJlZDViYmYyYzhhNDgiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiODciLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.FAoeYCfwVi-S3JUw4RyHRTWZweLfUQeZj7ZfxNj41_scFDF-G8xlNLksLQnTa2Uh8zrbvL1fZXTGNkURk6hj1A==/live/c7eds/AXNHD/SA_Live_dash_enc/AXNHD.mpd
+
+#EXTINF:-1 tvg-id="314" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/wbidhpzmabaDfMcZTc-Wgg?tags=CH_LOGO",STUDIO UNIVERSAL
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbe5d9ce01740076fdc95cbc0253b9ee:d8a8ef434bffae80e45e203f6f7f4988
+https://edge-live15-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODg5Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9TdHVkaW9fVW5pdmVyc2FsL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYWFiODRjMGJjN2I1Nzc4MCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIxMDgiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.MfWM42EhLN7-SVN_va1VXBMGWlbOBBFVlcKinuI3iOb72xwmsbXORDKKQjBejOePtoTejIMybB7hFjAZDUcwUA==/live/c6eds/Studio_Universal/SA_Live_dash_enc/Studio_Universal.mpd
+
+#EXTINF:-1 tvg-id="315" tvg-name="A&E HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/RU1HcljE4i3xPpFg9mhUCQ?tags=CH_LOGO",A&E HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=46d4dda63edf221dae86a32c6e1c8fdb:40d66cb806ec1fa0f5649d800a43ec44
+https://edge-live18-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODg5Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9BRUhEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjk5MjM2ZDM0YzkyZDU2MyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIyMzEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.cSz_4OGwie90Hl-qWzo8cSf2bDHhjD-k4PbrQRnzk8Az-JEwcLqb1G-dNS2TBBIl7MLOfNcyN5UWc-0eolVG0w==/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd
+
+#EXTINF:-1 tvg-id="316" tvg-name="EUROPA EUROPA HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/dblMns5X14N1BcVvjn3_GA?tags=CH_LOGO",EUROPA EUROPA HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=02ba4e4b769e4c148250ec3f2f206e46:659530e217d14c24826899bdefac48e9
+https://edge-live14-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODg5Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvb3V0L3YxL0V1cm9wYV9FdXJvcGEvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkNDYyYmQ4ZWFjYzU2NDJlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjcxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.DIkh11kVi5FAkq1IvhLC0RkHj467zQILlYUX0qffceZ8ux_eWzpe-VD7v0xDWfExbGlB5cm5cKdVwHGp3alFVA==/out/v1/Europa_Europa/SA_Live_dash_enc/Europa_Europa.mpd
+
+#EXTINF:-1 tvg-id="317" tvg-name="USANETWORK" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/PDBE9vBHXQYBlgCLtcVpIw?tags=CH_LOGO",USANETWORK
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=27e223ab07b58c2c968e7304c14cd75e:6dc4c9640f27778da211689c821adecd
+https://edge-live01-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODkwIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9VU0FfTmV0d29yay9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImI4NmI2OWE1NTFkYjA5NTYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjQ1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.xCK-Q6E9UJEXYKAuct9BrmQCcd3K8sCFNjz9vvXyPQdFhn1KhEQlhdD9zWXPGxdJ3vHe8lJwOrFEx7UcAZcFaQ==/live/c7eds/USA_Network/SA_Live_dash_enc/USA_Network.mpd
+
+#EXTINF:-1 tvg-id="318" tvg-name="TCM" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/-UdH-NcJjn-2oF4McDWFdA?tags=CH_LOGO",TCM
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d40eab36dff7414984c6f51b7174be0c:ebb259a7f76be779f8dd7d68f55e0098
+https://edge-live22-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODkwIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9UQ00vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzYWJkODZlMDdhZmM3MGI1Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM1MiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.AkPsiiYkfzydk2UEqKymzM6SHGAin2Vc1l2GloqeDhXZKxNYh6-Nrgl8nolNk4VXmJGIeQGoWnTje-9GSb3Crg==/live/c6eds/TCM/SA_Live_dash_enc/TCM.mpd
+
+#EXTINF:-1 tvg-id="319" tvg-name="AMC HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/HKbnnO9g-BCVrVCSnSx_Dg?tags=CH_LOGO",AMC HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=30ffe7a2776537e8cec7020d783536f9:7b4f323576ac85d8938f5bebc245131c
+https://edge-live21-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODkwIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9BTUMvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0YjYxYjg0ODZlYzM1OThhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM1MSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.xyhhHoVO8_a5xFw5FgCxRDdgZdpEREMyqdabWGhRFWiNBO2jTCOcyZ8OAeiZdTt47IRexKAPTRt3pFxVpE8NrA==/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd
+
+#EXTINF:-1 tvg-id="320" tvg-name="AMC SERIES" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/_6hpzUyEuE84LV5-MuSnAw?tags=CH_LOGO",AMC SERIES
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eede4d68b8f02d26fe3f59d2125b56e2:2f064e1c42bd2ec12bc98d02eb62f06e
+https://edge-live10-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODkxIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9BTUNfU2VyaWVzL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNjhlYjlkZDM0YzhmZWVhYSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzMTUiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.5PiVMxuD20FZUBXRciNoNqbh8a1mA9jTlqryznlfSFgnM9DBrb2oU1_cHET08t4IsfVctCw889l6qdUC4YkVnw==/live/c6eds/AMC_Series/SA_Live_dash_enc/AMC_Series.mpd
+
+#EXTINF:-1 tvg-id="321" tvg-name="ATRESERIES HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/Udqzh8pyX4ZJUmmeNZ4voQ?tags=CH_LOGO",ATRESERIES HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6aa5288008ab3b1c01ccb2fc55bdd151:0be049527ccbc5bfadc42f7845a5d35e
+https://edge-live09-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODkxIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9BM19TZXJpZXMvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJiMjIzNDgyODBhNWI5MmFmIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMxNCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.p5JbI4h4n3fWYoQAVFkVPwlJHpQ7cZ_CPTEGpEgqXnu7RoH-euLjh-X217T2fD3gmawIhPFyaukC6-eyU02jPQ==/live/c7eds/A3_Series/SA_Live_dash_enc/A3_Series.mpd
+
+#EXTINF:-1 tvg-id="322" tvg-name="GOLDEN" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/anB5Thv7Mm9EFKv4Xo51gQ?tags=CH_LOGO",GOLDEN
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6cd784e5b53208261dd81a345908400:b125fd77d7d88752dc045e57edcf9943
+https://edge-live17-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODkxIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9Hb2xkZW4vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJhNGJhMzg1NGUzMTBkYjdjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjEwNiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.JF8LaSSNLQetRefbLVfLc0x9vmP_dSoDQd1q6E1G_0OIZxGoD-jEF4G9uc6bcuFPVuFPz-pOXHeGwbVRpbmElw==/live/c6eds/Golden/SA_Live_dash_enc/Golden.mpd
+
+#EXTINF:-1 tvg-id="323" tvg-name="SONY MOVIES" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/l-K8FTzmm6nWaWLWuzdxkA?tags=CH_LOGO",SONY MOVIES
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f76233e56d5102867c2bc5418871ad07:16b38f0f7a797b3bb87983ebf5879814
+https://edge-live08-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODkyIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Tb255X01vdmllcy9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjljMjIxY2I5Njc0OTdiZTYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzE2Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.vlTGVpM2nDWPrchxZr6lxbuc1SHL2RDNrpNuWDrt7T1TRY1N89VYBJkmPzop5oRrdHOpAwxUJKkWHCR2Y7urww==/live/c7eds/Sony_Movies/SA_Live_dash_enc/Sony_Movies.mpd
+
+#EXTINF:-1 tvg-id="324" tvg-name="EUROCHANNEL" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/vUb3tutw_PIAo6qwGh90LA?tags=CH_LOGO",EUROCHANNEL
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=95e7d20fc07b39fe9560be1a6be83ce1:40ef00abd884db6166b105da88862849
+https://edge-live05-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODkyIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FdXJvY2hhbm5lbC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjU1NmMzN2Q0YjRkMDViODAiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzI0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.p3Y7MP8MdduCf4D0HaagU7JoozHLu_V66vd473H_LYn_96PbMVGvlmgHLGdpar8PQX4jeVG0ZwMsSBwBzxiA8A==/live/c6eds/Eurochannel/SA_Live_dash_enc/Eurochannel.mpd
+
+#EXTINF:-1 tvg-id="325" tvg-name="DISCOVERY ID" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/gBiUe3pbTyWkWoJJB6DHjQ?tags=CH_LOGO",DISCOVERY ID
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a6094881a1486dc8a3efe6be9f22017:ddb8613a5a749a93d9bbc44559298de0
+https://edge-live02-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODkyIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9JRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjRjMWYzZWMwOTdmYTkzOGQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzQxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c1TbKRw79PuvGSM2NJUAuNZuTSfXqzWLlfbarcauuJY7UrahW4VGi2C_5hi2u6tyGvpNFtu2DKzkOlG7_0PAHQ==/live/c7eds/ID/SA_Live_dash_enc/ID.mpd
+
+#EXTINF:-1 tvg-id="326" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/E3bFS6T1KYfcZtaUJ0wjZg?tags=CH_LOGO",COMEDY CENTRAL HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=797eb97d11b7ee31e7da456248464879:93a54e23d6fb5e7d05420a279923988c
+https://edge-live09-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODkzIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Db21lZHlDZW50cmFsL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZmI4NTNkNDJhNDBlODVkMSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzMTQiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.oVPc5I2RGaCbFYqdIYwVlB0yF80D91-ZTgcD7GX5e4gN-yTxocbgxLzEqo17sodfKUzuXtWU3Hnu-_wWIMUj4A==/live/c7eds/ComedyCentral/SA_Live_dash_enc/ComedyCentral.mpd
+
+#EXTINF:-1 tvg-id="328" tvg-name="A3CINE" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/YS6jffitXAkU47DggbrKHg?tags=CH_LOGO",A3CINE
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fd23d78b94f5dd7a5020547bf1673d3:29e4d16d200d4aca5437d144b8538e92
+https://edge-live18-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODkzIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9BM19DaW5lL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMGNjZGJlMDc5NjE0NTI4NCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzNDQiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.VT2l8InDq3H4NR24UOf6S-SIIhT-imvnbvxm_vOWdme-DXsdpIOcHX43atsHYpBrmDls1t4vZ2CG2L2AMbx_mg==/live/c7eds/A3_Cine/SA_Live_dash_enc/A3_Cine.mpd
+
+#EXTINF:-1 tvg-id="329" tvg-name="DHE" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/aW5SZQAtH50WVnv2bgYslQ?tags=CH_LOGO",DHE
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7650ddfb5362bb721625873d246b71cc:51c2839183b1f5056d94fe0b75e44662
+https://edge-live18-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODkzIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9ESEUvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJjODllMmNhM2U0NmE0YzUxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM0NCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.dd_PL1SrfVDye9ywOVDbZcLdy4L3O05XwsDmYxkE3IIqllS4UnC8W1Gw2ueuKTtnKzmcSjxYFCMu1z-er_5MTA==/live/c7eds/DHE/SA_Live_dash_enc/DHE.mpd
+
+#EXTINF:-1 tvg-id="330" tvg-name="PASIONES" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/UXOPMKA8jylVCKBQUsufyw?tags=CH_LOGO",PASIONES
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dcf5f8c4d5b8d1f68a68dbe8a5c8d490:b888f5f0c1cc6e097a67a56c25e2f490
+https://edge-live18-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODk0Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9QYXNpb25lcy9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImQyZTE0YTFiMGE3OTNkZDkiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzQ0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.5VqGgw8UycjUgyPCs3pufzoZYZY0geuJGaxj-B8hNEbee57pu3my2yCTy4bEmCtTYqtXYcxzTa5Jtx-eBi3oCg==/live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd
+
+#EXTINF:-1 tvg-id="331" tvg-name="TELEMUNDO HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/TuOPfNE6Hir1JE4yflHx1A?tags=CH_LOGO",TELEMUNDO HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f1780497a311eb5e38ea03085888c47:0dbdebc8d5336c970ac8c904e9bcd034
+https://edge-vod06-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODk0Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9UZWxlbXVuZG9fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI3Zjg4NGZhOTU5NzEwNjE4Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjEzOSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.B4pcojQQuF9PRYiyKyCGs3MbQDE3P9TAIQapg-hu2HAvC7V-BOIL-equU6h9sAwtDR4sgXg9nzY3AmAdCB2Djg==/live/c7eds/Telemundo_HD/SA_Live_dash_enc/Telemundo_HD.mpd
+
+#EXTINF:-1 tvg-id="332" tvg-name="TNT NOVELAS" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/NHkxUfsgs3z-DC1t0Jf2mA?tags=CH_LOGO",TNT NOVELAS
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c62c95f2180545198eb91df4cc32e3fc:6a21b6ef5adb8689dda7c3cc1eec0c35
+https://edge-live14-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODk0Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvb3V0L3YxL1ROVF9OT1ZFTEFTL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiN2VjZWFiZmYzMGIwNmVlYyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiI3MSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.q4MVmKE4sroaXt4AcslIXVSVLJrkzlb4oR-EGgISoDOeG04BfJJL3jlRL8O4bnX9zKfCVTX0osWS67vbzYHfFg==/out/v1/TNT_NOVELAS/SA_Live_dash_enc/TBS.mpd
+
+#EXTINF:-1 tvg-id="333" tvg-name="TLNOVELAS" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/fKkBD9R5bUMO1feOQQdzhw?tags=CH_LOGO",TLNOVELAS
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=62bf7b8ec759904f0676d24b0baef659:16435593f900bd954071486abdc8bd81
+https://edge6-ccast-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODk1Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9UZWxlbm92ZWxhcy9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImYyMGMwZDMxNjk5ZDFhZDQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjI1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.MAh4e9WbixlVp2k3AZ3JH_BRP-J8oijlB0wVV3MO4RnASdKwdypbVrSPjUv1k3XPqaXtm9aTMl_UgbVplvdfzQ==/live/c6eds/Telenovelas/SA_Live_dash_enc/Telenovelas.mpd
+
+#EXTINF:-1 tvg-id="335" tvg-name="ADULT SWIM HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/DfNwCrbegGgnA7-H3HtypA?tags=CH_LOGO",ADULT SWIM HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e63e6ecde4f9cd9e68021b4c9af2d21:438e6d40e9952362eef1c690c5f8455a
+https://edge-live23-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODk1Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9BZHVsdF9Td2ltL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYmE4MzVjYmU5MDA1YzU0MyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzNTMiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.o9fIU3L_hccmlyUC_WJropqhSRBHC4Rai_5ZUDB8eUUfZOXjdTzkkbBc6XDy-JC6sY3PXalwv1gAgYQ8v3Zvxw==/live/c3eds/Adult_Swim/SA_Live_dash_enc/Adult_Swim.mpd
+
+#EXTINF:-1 tvg-id="400" tvg-name="LIFETIME" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/tb5f3wEz9eQjLS4IbOw6bw?tags=CH_LOGO",LIFETIME
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0e2d5650551523ee94db5dc1a8a13d4:d555f25b35d8f32cf9efab28c24ca1ba
+https://edge-live19-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODk1Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9MaWZldGltZS9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjIwZjlkYjliYzkxODAwN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzQ1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.61iKcBxnXEzTRrVLjgMn0wCbbzcQP7q0Qb1OwQUk75TVeM43RC_PpExxxuKvx1Keeh8XGhuNegXolxVMXIPUYg==/live/c6eds/Lifetime/SA_Live_dash_enc/Lifetime.mpd
+
+#EXTINF:-1 tvg-id="401" tvg-name="EL GOURMET" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/E6pPSjet8cErV3W5l_18zw?tags=CH_LOGO",EL GOURMET
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bde4fca7757c6c9f15a7bada68df2ba:89ba78584f7612f0fccc62d26043433e
+https://edge-live09-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODk2Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9Hb3VybWV0L1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZDM3NzBhZWJhYWFmMGY1OCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzMTQiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.PuY1NQ5FzIK7vNY-WtN60aGE-EUzkPbKRIBx8kpAuzlDu2zYNulTNd4v-iD5Rg9Hn6LVwCQexo_YwwjBH2XUEw==/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet.mpd
+
+#EXTINF:-1 tvg-id="403" tvg-name="FOOD NETWORK HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/PTlvBnVvE7BAD5-s627miQ?tags=CH_LOGO",FOOD NETWORK HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=94d3ef068988afbe74787867f3f505c5:6264b63a33548f46327ce824127841ba
+https://edge-live05-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODk2Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9Gb29kX05ldHdvcmsvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI5ODYxNWU4OGIxMzg0ZTY1Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMyNCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.8cu_7SZHOVdhwC-VNB9NH9VW7ndqHVYqsovBggzYYQ6Dfnj8mtQRtFb-gdLHxIST_vHpUcFBLeBAGEujfFsBfw==/live/c6eds/Food_Network/SA_Live_dash_enc/Food_Network.mpd
+
+#EXTINF:-1 tvg-id="404" tvg-name="ENTERTAINMENT TELEVISION HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/cgvTJ4y2ivlSqdwg8dRBvg?tags=CH_LOGO",ENTERTAINMENT TELEVISION HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=194d96e9bd9009b1eacc529e3260560a:c37a50d6848ce6d3dcce0c15d227b9e0
+https://edge-live10-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODk2Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FX0VudGVydGFpbm1lbnRfVGVsZXZpc2lvbi9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImE1YzEyNzUxYjQ1YjMwNzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzE1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.I9uSKohVLl8A9Gtnks-h5-ClSL9dPdSecbdFLiO7_6PYPl4Kcyk6OEUqghbEzNbYHKkASIkMC2h6paxL63Ht8A==/live/c6eds/E_Entertainment_Television/SA_Live_dash_enc/E_Entertainment_Television.mpd
+
+#EXTINF:-1 tvg-id="405" tvg-name="HOME AND HEALTH HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/BFvn4fj8fcDWhtDSEnZjdg?tags=CH_LOGO",HOME AND HEALTH HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e2bc2b3c9464c407af6d0559bb5e1ea:43ec5e698b6f60a0f41d604909a25186
+https://edge-live31-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODk3Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9EaXNjb3ZlcnlIb21lSGVhbHRoSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0NzJkMDc4YmMxMzk5NDZlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6Ijc4Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.jH3YegUKcoiRQej8d2N_MJBWJnHFqlf8OPtb6zNUSsS58xFCbJdCsKwUO2ZgdHai72e58b3sAt6wD6EZCVDRMQ==/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc/DiscoveryHomeHealthHD.mpd
+
+#EXTINF:-1 tvg-id="407" tvg-name="DISCOVERY TLC HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/iqHLso_6n6e__kVJBOiQ8g?tags=CH_LOGO",DISCOVERY TLC HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2718fd9ea3492a477bd91c51d348185d:979d54e467efcac7b5ea18d50f74ee08
+https://edge-live10-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODk3Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9UTEMvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJiNjdmZmRjOGQ4YzNiZmU0Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMxNSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.taT40BBVVo_2iLyyVHlLYYnY89BIejrz30liPg-xg0pGF2QhHD_r67RChpOTyGZm7E459bAz9oxYn19VJo3VUQ==/live/c6eds/TLC/SA_Live_dash_enc/TLC.mpd
+
+#EXTINF:-1 tvg-id="408" tvg-name="HGTV" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/xOSuqBfoVCbNbiwZENtZtg?tags=CH_LOGO",HGTV
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb0b850c84cede52061cf6f84fce6cc3:f3de5c89d06ce99a76bdf20703da3cc2
+https://edge-live21-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODk3Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Ib21lX2FuZF9HYXJkZW4vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2MjYwZWJiYTA0NzI3NzQzIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM1MSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.UTUz4a37DoRi8aORQApXovxUf9CzOZA7_J2sQnqZjgrmonhAHKa-2NAR4AClwCfmHM3VkSnmq48J0LQA5g7Ndw==/live/c7eds/Home_and_Garden/SA_Live_dash_enc/Home_and_Garden.mpd
+
+#EXTINF:-1 tvg-id="409" tvg-name="HOLA TV HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/BJtk3lOacTL4LgGEdKHqgg?tags=CH_LOGO",HOLA TV HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4db9994d2578f4a5f90dbab82b0305d3:68a48d4557690d54ee82b67597993491
+https://edge-live02-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODk4Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Ib2xhX1RWL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZDEzNmI3NjFmOGNmYzIzMSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzNDEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.V1CciACMT3MheVcnB-NPT50T_vECOTJHWYw3Ngm2eOzpsMna3Y06jpM1MxZ8qbu0pjsJHcl4bDBS_ucgzIfhWA==/live/c7eds/Hola_TV/SA_Live_dash_enc/Hola_TV.mpd
+
+#EXTINF:-1 tvg-id="420" tvg-name="CANAL RURAL" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/RKSCE9M6ShGyLYiIR0bl1A?tags=CH_LOGO",CANAL RURAL
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=72308b4673698df3c4143be5410c82d4:35f38c9fb04664572ee6c0a9c53a2388
+https://edge6-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODk4Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9DYW5hbF9SdXJhbC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6Ijg4NDc5YjY0ZjYwMGU0NWYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjE5Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.dUBKfnDfDkXaaI1k5ak3OtgcOEwbz03xB5Ro4Enj--x4mqKoAY18FhyeqV5v53xgNETSz69hCzOpIkuTP6p31A==/live/c6eds/Canal_Rural/SA_Live_dash_enc/Canal_Rural.mpd
+
+#EXTINF:-1 tvg-id="422" tvg-name="SUN CHANNEL" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/Py_cEsIX-3v3ss32_KgP-w?tags=CH_LOGO",SUN CHANNEL
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=997776e5454ed2c20d1cf82cf11e79b4:403559af86e7b8b578f19205f9cdc6f0
+https://edge6-ccast-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODk4Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9TdW5fQ2hhbm5lbC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjE2YTY2N2IzZTMzYjFkOTIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjI1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.ikfXxyWRtV9wRtl-mLml8D8tLqvy8h7-vSi2FCQL19N4_nwK9L8DiPnDnNmvUY_APUsOuwx8WHuHOhaRRjb4wQ==/live/c6eds/Sun_Channel/SA_Live_dash_enc/Sun_Channel.mpd
+
+#EXTINF:-1 tvg-id="423" tvg-name="TELEMAX" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/AwrQT5Z51vOeKObYG58LZg?tags=CH_LOGO",TELEMAX
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bddc55bb3a2d3423281dc109107d851d:9078a3e48389afcf63a457c0565e5263
+https://edge-live01-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODk5Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9UZWxlbWF4L1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNzYyZWZmYzZmYTcxOTc0OSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIyNDUiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.L1wkB31ibk5wegHExfTE40_2na9FxxbqMsBWEjTENmLG8BViCU3G9408gJ-G-fcb5lGRd1BVt8dLrO7WUOsy8Q==/live/c6eds/Telemax/SA_Live_dash_enc/Telemax.mpd
+
+#EXTINF:-1 tvg-id="424" tvg-name="CANAL SANTA MARÍA" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/2CN6FrQYv-f3Zmr1EnRA1g?tags=CH_LOGO",CANAL SANTA MARÍA
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e99b882b399da5d5f6f956ba0aa97b32:1411b677a3729d248976a1c75831ba46
+https://edge-live07-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODk5Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9TZW5hbF9NYXJpYS9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjE0NzI4MzE2YmZkNjcyMGUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzExIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.XPcMq9if-tYh8RgsaYMNAVdBMBZZII9j6JGliP_NUApPN-x_M5UCmvYYQL-JKIwxlzKVeWoMqiuyQFUjnY3Myg==/live/c3eds/Senal_Maria/SA_Live_dash_enc/Senal_Maria.mpd
+
+#EXTINF:-1 tvg-id="425" tvg-name="CANAL ORBE 21" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/xXfhjHBISBtHhLSBUHZ7hA?tags=CH_LOGO",CANAL ORBE 21
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3972dab125777799edf1d6484b0cfe23:68f32795854be3edd65e001efa898eb2
+https://edge-live05-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5ODk5Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9DYW5hbF8yMS9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImFjNTQwMmFhNTMxMDBiY2EiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzI0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.lhFbbV8tWTI3OcboIPmBzpc9WAK-y86yw6l2JmetbMWociBqVi9ATtHzZ4UTdoA7ldjMjmvfoFQot3GVHUc_UQ==/live/c6eds/Canal_21/SA_Live_dash_enc/Canal_21.mpd
+
+#EXTINF:-1 tvg-id="426" tvg-name="EWTN" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/lMNtmsIs9OfsJ-ZxIG92zA?tags=CH_LOGO",EWTN
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c535a3ea83cce6c38a8af04a0760789:1a15d611780ac05139d7322e01096d44
+https://edge-live08-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTAwIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FV1ROL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNGQzYmFmY2U4YTdiNTMyNSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzMTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.8KcZtzv-ybrkcQJq_Qdf1HdXaFtBgL_AfCANj49YODP3iKuriBOvrS3fCJTAjSL5uS95UkAQoTYQkCGI3jlgZw==/live/c6eds/EWTN/SA_Live_dash_enc/EWTN.mpd
+
+#EXTINF:-1 tvg-id="427" tvg-name="CANAL LUZ" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/skR_HWeVKregO8eFKeplew?tags=CH_LOGO",CANAL LUZ
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=10a8ee790a2db7be6705933bd0757d57:610abdabea96d111bbce6beaaa470782
+https://edge-live08-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTAwIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9DQU5BTF9MVVovU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI5YTFlNTNjZGRlNDQ2ODUyIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMxNiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.2Wz3nJRw2Ej9BwR-vQR-4mzlSHS5iuqPP507DacXRBf-kiP1PKLLJ5M9GsqOhjDbtL7WcdoOr38JXI88TB4Apw==/live/c7eds/CANAL_LUZ/SA_Live_dash_enc/CANAL_LUZ.mpd
+
+#EXTINF:-1 tvg-id="428" tvg-name="DAYSTAR" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/FFhFxULf0K51e_tXUuG-Ew?tags=CH_LOGO",DAYSTAR
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=80713dc775639c89db2dcbffeff2358d:e3fef4df1c74d010a5e021297e5bbf46
+https://edge-vod06-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTAwIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EYXlzdGFyL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNGJiMjJhYTY1MGZhMmQ5OSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIxMzkiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.hBS3Go7K-yQXNhDCNRFRdgk3lTcQUrdCKlh_rcrc0BTF--ixzNZnzAM5zocA69TtMd6k52-pJwGe2wTFEYiorg==/live/c7eds/Daystar/SA_Live_dash_enc/Daystar.mpd
+
+#EXTINF:-1 tvg-id="450" tvg-name="Nat Geo Channel HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/l1d77znunhRLOy6hvZYZ_A?tags=CH_LOGO",Nat Geo Channel HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=73735c1740464c99cca3ffb450c15811:b9241d083c902fa615e4f780081ae926
+https://edge-live16-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTAxIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9OYXRHZW9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6Ijk0NTZmNTQwYjcwYjM1YjMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMTA1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.IyWI3pM9kdPugSEuRQ0klngcJGMmIjZrPHHSo_RGxMtUtyMrOh4juyimZkOUgOzufbW6zLuyhflSEWzo2VcV2g==/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd
+
+#EXTINF:-1 tvg-id="451" tvg-name="DISCOVERY HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/EsvkD06EpyPQG58R6A82yA?tags=CH_LOGO",DISCOVERY HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f55aec775d92cea41ea0f80b8615495a:8927f326931c6a5af38d0cd7cd744338
+https://edge-live18-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTAxIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9EaXNjb3ZlcnlIRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjU3ZjQ3NmY1NjcwMTNkMWMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.SrRerZEj0mON5g7tQwodDXtfqRWXutMmjtjgr9-1FJBJxGjGe1T3TwhX8ETODpeV57rGHylNqOuquQnipLI12Q==/live/c3eds/DiscoveryHD/SA_Live_dash_enc/DiscoveryHD.mpd
+
+#EXTINF:-1 tvg-id="452" tvg-name="ANIMAL PLANET" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/CGK4TLWx_s-GVxkGA69uVQ?tags=CH_LOGO",ANIMAL PLANET
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd3391cf0c35692dbaca16b76169e211:0dd3924a07b0a4051f6db1d57e75a700
+https://edge-live18-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTAxIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9BbmltYWxQbGFuZXQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI5OGI3M2Q3ODViMzY5YTRkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM0NCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.jrNWs5gwbxzHX8qTZYIQXzhWjbkrcs4oYZrhPegySUIGHEBWGNq6oYl-2nBNmLhRciFB6ddacxt4e6YFQQyEsA==/live/c7eds/AnimalPlanet/SA_Live_dash_enc/AnimalPlanet.mpd
+
+#EXTINF:-1 tvg-id="453" tvg-name="DISCOVERY HD THEATER" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/xmBN33mkEYJKSqTro1-5sQ?tags=CH_LOGO",DISCOVERY HD THEATER
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e76e0dd95f2187770a6fa9f72d7600f5:bcab30dad55228fcd0a89a534b7b4f04
+https://edge-live04-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTAyIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9UaGVhdGVyX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNGU5YzgzOTRmNTZkNjBkOSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzMTAiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.wMn_r4PbT9CX98MXS_wgb1b39Nnfm33VWLNy0Q2tC0Li7ntoXNy_oecAw0DYo9vaL0oYYsnF9NECOKma_hi7Aw==/live/c6eds/Theater_HD/SA_Live_dash_enc/Theater_HD.mpd
+
+#EXTINF:-1 tvg-id="454" tvg-name="HISTORY HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/yNw82gG5hmdPJFUfnL_t5A?tags=CH_LOGO",HISTORY HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b10e48eb0c9940015e28dfe7637b48fa:4df252f95de70923b736f3f659821cb7
+https://edge-live09-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTAyIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9IaXN0b3J5SEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJjYjFiMmM1M2VmMmM4MjViIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMxNCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.Yu4sce_ZVDJEr59q5LeEmdprC83EuZwLqeJz5PQiJhlQ3qFp8cjcnMxqYaiUQuQ7staksmYuH4OBGy5zVFRptg==/live/c7eds/HistoryHD/SA_Live_dash_enc/HistoryHD.mpd
+
+#EXTINF:-1 tvg-id="456" tvg-name="CANAL A" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/IScOx6Ju6ANYu51LB7XhPQ?tags=CH_LOGO",CANAL A
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ada50e6dfa73ff021b64cda0e3266441:a8e86512821e7657d05acbbb703b5269
+https://edge-live17-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTAyIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9DYW5hbF9hL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZGJhM2NjYzRjODJhYzI2MSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiI3MiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NLRLlOp-OVNlzk0o1lAMaXBsOOANaVW5N2FdvoHsUW2G-0yjVp7kVAWJxEMKatSa_Av7jqdjxgOMvLTp2mkafg==/live/c6eds/Canal_a/SA_Live_dash_enc/Canal_a.mpd
+
+#EXTINF:-1 tvg-id="457" tvg-name="FILM&ARTS" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/YqWH5MOe27rmrMF1Ch1q8w?tags=CH_LOGO",FILM&ARTS
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=44ced0f8d39827356490dfdb264d9a0b:af022335fabcd3e2df916b2b53ae3685
+https://edge-live04-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTAzIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9GaWxtX0FydHMvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmZjRhN2RhY2ZkNjFhMzZkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.4OHdKUnJv0OP49G8mYhxZk6FVDsVLP-mi3DqaUChZUPmu8EsfgBkf6e7CueL8iZhUnrY5pJo5s-Do8w3P-m4Nw==/live/c6eds/Film_Arts/SA_Live_dash_enc/Film_Arts.mpd
+
+#EXTINF:-1 tvg-id="458" tvg-name="H2" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/8xYgzdDte1mjpZ9hQTnCSg?tags=CH_LOGO",H2
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e08ea85cdbf5d3d2089d5e9a5349d8c:ccdb13d6d47775894452a0629c986b67
+https://edge-live11-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTAzIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9IaXN0b3J5XzIvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJlOWNmNzFjMWViNzc5MTAxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6Ijg3Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.ZEYW1aTob5tfmCow7WkOhkz34MQcqQrpi6ioMqzE7qqfMpFb6BGJBMYKmJ6ltFK-poP_1HDFfNYdjtkXka2a5Q==/live/c6eds/History_2/SA_Live_dash_enc/History_2.mpd
+
+#EXTINF:-1 tvg-id="460" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/Fz_YwSm3N0JTYBmt1pwEJA?tags=CH_LOGO",DISCOVERY WORLD HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31e4b8ab99b5a7bd7812834701825dd9:fe9e6e8c22b0d33baaae895b9d0317aa
+https://edge-live04-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTAzIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9EaXNjb3ZlcnlfV29ybGRfSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJhMjc1NzYxM2M4NjcwMmMzIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM2MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.U88n2KDkLUDSFOYYrEttIZXIjvqxRREEcriQuBEo_2Ysc91zy1JKr2gm9D-iTu99ePe1mE2fd6R_jsHJmVBcEQ==/live/c6eds/Discovery_World_HD/SA_Live_dash_enc/Discovery_World_HD.mpd
+
+#EXTINF:-1 tvg-id="462" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/bPn-aBUgxpA0FNYgsVIkyw?tags=CH_LOGO",DISCOVERY SCIENCE
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c9fcd9709b38058ca2c90b83e81bc039:fb736e65c2a7248987e58a2a7e6d49a6
+https://edge-live17-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTA0Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9EaXNjb3ZlcnlfU2NpZW5jZS9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImI4Yzk2ZjQyMzg0MzhiZTIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMTA2Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FO--ek0xrO4kZrtUIIDbdK0u12-F0ssO0F7N9GfQDnhYtVccpnJegBezY_g_WI0h3MSdywkbTUdCvUIMfjH-uw==/live/c6eds/Discovery_Science/SA_Live_dash_enc/Discovery_Science.mpd
+
+#EXTINF:-1 tvg-id="500" tvg-name="MTV HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/n04YtKT8WwRPjAfxJC6FTA?tags=CH_LOGO",MTV HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bbb2956cf5963fb1ae243998ad2722f2:27f1f7ef07abe59d54be2bce4c9a1bc2
+https://edge-live03-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTA0Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9NVFZfSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0Y2JkMjJmYTc3NmUyYWM5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM0MiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.w-KVt3uKJDqlqmhh6yZhU3-Lud_xh7cYnqtOY3Zr1USYCCbdzb8_Py4hAOScQoRGykadBFHc4TpkPwbOPjb-eA==/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd
+
+#EXTINF:-1 tvg-id="501" tvg-name="QUIERO HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/pWSGmQ4yaCOlkok_QtzNWQ?tags=CH_LOGO",QUIERO HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b650f8342cb564426d68304411bbfe8b:91c659df1f76ccc54ccd865517824e34
+https://edge-live05-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTA0Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9RdWllcm9fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0YTU5OTBjYzdlNTY3YWEyIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMyNCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.BoI7hu1Jmr-o4G9A0y4V77WLGp1wxhVYKfx4eg9UWzHJMIk_tHaiVV6usSjTbQNt18DBC-_dou6aF2zIyyziKA==/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd
+
+#EXTINF:-1 tvg-id="502" tvg-name="VORTERIX" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/Vqfw5SS8gWr332vJUn6aKQ?tags=CH_LOGO",VORTERIX
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=83132aeb8ac536b1287b3a121767f5f6:24488449ccf4f53a8d77874ef85f44b8
+https://edge-live10-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTA1Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9Wb3J0ZXJpeC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjY3MGY2MTMzNTdkZmU3OWYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzE1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.Q9cPkY1AZU_k5pxtUnU5hzDeak9Sg08XOpkIMqxrUf40gCGJw-o0e8MlYh7mRsVX4HiJtnlxhe-F8M_mNneFnQ==/live/c6eds/Vorterix/SA_Live_dash_enc/Vorterix.mpd
+
+#EXTINF:-1 tvg-id="503" tvg-name="ALLEGRO HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/Mpn70pqyaDdZN60vclCdHw?tags=CH_LOGO",ALLEGRO HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=048295f82090bff12841e5bfedc9b767:fa591524a3b90a3aaf633aae2a14abe7
+https://edge-live09-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTA1Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9BbGxlZ3JvSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIwYjc5YzgzYWFlNjRmYzBkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMxNCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.zKHQm3Xak8AwJLuxeMCvX6zlzKyY1Li4BAukQEIs6rt621dGu8fQ2mK4kxMFJqquMrxg3lOp7neGwl_E1_ONCw==/live/c7eds/AllegroHD/SA_Live_dash_enc/AllegroHD.mpd
+
+#EXTINF:-1 tvg-id="505" tvg-name="HTV" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/Unbb9QNr6O9YHLpAaTWiqA?tags=CH_LOGO",HTV
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d29ee7a67ff04156c6cb56b90cb5d0e:95139c5421574247ced3d0a10d3bbe12
+https://edge-live31-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTA1Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9IVFYvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJiOGY5NmExNjE1NThlMDgzIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6Ijc4Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.cUscaDndVwRf5AbwEXQ9qxPu1xqMvPuOQyLfcOVACEGbaMM63LmpZiaAli_fiUE4NsP1uj05vlqiW47jOoO4Ig==/live/c6eds/HTV/SA_Live_dash_enc/HTV.mpd
+
+#EXTINF:-1 tvg-id="507" tvg-name="CANAL DE LA MUSICA" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/DyFeQKP1Eu7y5o0Tk1oKfQ?tags=CH_LOGO",CANAL DE LA MUSICA
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb0b25b83dfe576856ca30ff55e6dfd6:30380b34a4de53bc0b3edcf9f2c6abe2
+https://edge-live15-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTA2Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9DTS9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjgyZDM5ZGYxNDFhMzJjZWMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMTA4Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.qSiZ6N_ACuV5uAvSyUWJ2Zmp63yQSJFxSr62d6_5NC3EwBw_egyC29ATP5nRo0OauYLYCrgXN1rE12AYJbvqJA==/live/c6eds/CM/SA_Live_dash_enc/CM.mpd
+
+#EXTINF:-1 tvg-id="515" tvg-name="CANAL DE LA CIUDAD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/vBERBHBQYXv56ZDZa11SKw?tags=CH_LOGO",CANAL DE LA CIUDAD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8700e5c6a3528f38f878a1720ab8a5d4:dd4d69622cd92dfe429229925c6a0a75
+https://edge-live01-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTA2Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9DYW5hbF9kZV9sYV9jaXVkYWQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzMDczMGU2YTdhMTcwZDEyIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjI0NSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.3rEC6L6tmCixU_rH_HiYkShBf27JRI-KfwQ2JIZsMXuXaGnxUDEE1Hjz1Fnqt6J4JQXwKElFarDiAAO-8MysWg==/live/c6eds/Canal_de_la_ciudad/SA_Live_dash_enc/Canal_de_la_ciudad.mpd
+
+#EXTINF:-1 tvg-id="519" tvg-name="SOMOS LA PLATA HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/tzLGU8-aMvPeEPi5m4hZIA?tags=CH_LOGO",SOMOS LA PLATA HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a9c31ef5e8349df8e920ae6279026742:c5739637738372d6357db10a95313676
+https://edge-live03-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTA2Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9Tb21vc19MYV9QbGF0YS9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjYyNDQyYjVmMzBjNTVmNDkiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzQyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.4J6gjkNAZWpf7lhW4lEMmyJtOFGPdbEvlYTyefXBNQw_KKQm5Eb1isL8l_lB4ouqePCxG5Z4DP5EQDQN2iZhEg==/live/c6eds/Somos_La_Plata/SA_Live_dash_enc/Somos_La_Plata.mpd
+
+#EXTINF:-1 tvg-id="520" tvg-name="SOMOS ROSARIO HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/7Uu7sz_9SiNKTuY1bTQEMw?tags=CH_LOGO",SOMOS ROSARIO HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ca95cff9a7781ad8f2889063496bccc:0901d3bebb0c2fe8db3870a21f736b5d
+https://edge-live02-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTA3Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNWVkcy9Tb21vc19Sb3NhcmlvL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNDNlYTFiMDY4OTkwZTkzZSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzNDEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.YDVmSfVmbl_D1r3dwqZJWERNtBbBCDsQXgpF6pI_MTTv6nE5FD6Ip0F_8lnA0C23HcHaAW5WB1x4-3x9YwZ-hg==/live/c5eds/Somos_Rosario/SA_Live_dash_enc/Somos_Rosario.mpd
+
+#EXTINF:-1 tvg-id="523" tvg-name="SOMOS SALTA-JUJUY HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/o3tfT4Afbru-COHdH-gCNQ?tags=CH_LOGO",SOMOS SALTA-JUJUY HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c87bb4cfa18b706c568a7e301938150b:2cd3e3b79a5e2062d67585deb4b25011
+https://edge-live14-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTA3Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNGVkcy9Tb21vc19TYWx0YS9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQ5MjZiNmFmZmZjMDg2NTQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiNzEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.NCN0CrJ4WcKvYHDJdI6-Cz4f5W6LTssoi_iy3Ht9vTkPAODuIaD4OPAVTf4KcNX8A1TcrYhaSw7Yxafwh0bK1Q==/live/c4eds/Somos_Salta/SA_Live_dash_enc/Somos_Salta.mpd
+
+#EXTINF:-1 tvg-id="525" tvg-name="SOMOS MAR DEL PLATA NECOCHEA HD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/9yXd1aZ9I6d6puZ18YfrfA?tags=CH_LOGO",SOMOS MAR DEL PLATA NECOCHEA HD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=66c1f3ba8476e822fcce5b1d68ee60e2:6ca3c4b72080d16b21a6b15cd234dac2
+https://edge-live15-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTA3Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNGVkcy9DYW5hbF9DaXVkYWRfTURRL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYWUzOTE5OGE4Y2I1MGYwZCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIxMDgiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.Wwe9xqzJewZ43G46Hk-RuAqcs4bKsvNTUx5RL_MC084n5iYLnRCa9neaNpxvZxU0JZW_Zl0bVtE0BAAUKPGyoA==/live/c4eds/Canal_Ciudad_MDQ/SA_Live_dash_enc/Canal_Ciudad_MDQ.mpd
+
+#EXTINF:-1 tvg-id="526" tvg-name="SOMOS EL VALLE" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/17XA6KOFNps53PTMQcs6Cg?tags=CH_LOGO",SOMOS EL VALLE
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a0042dcced83d437680d129bdbbbdef9:1ea1740c1ece75874f1f4acb8dffc2eb
+https://edge-live34-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTA4Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNGVkcy9Tb21vc19FbF9WYWxsZS9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQ1YzE4NGM1YmMxNTNkZWQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiNzkiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.6lrYKx-30SfTIBapBSGr0Pe4sO0xcrBeFb6ae0QWzQ4NPeU39bg3AIjfN6wg779xF9PdHu7Bp7SW4nh0wPNfng==/live/c4eds/Somos_El_Valle/SA_Live_dash_enc/Somos_El_Valle.mpd
+
+#EXTINF:-1 tvg-id="539" tvg-name="CANAL C" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/qn2fGudXk85ifaXBwdGJVg?tags=CH_LOGO",CANAL C
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=991cba9b55e91a4d0f71fe3e7318b935:cf506916f3ea3b2582a098158326a197
+https://edge-live16-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTA4Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNWVkcy9DYW5hbF9DL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYmM2MDZmMTlkOTVmNDNjMSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIxMDUiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.VKLgRpwy_3INkaca1CVGNjyZTsfJsapgEiZgveEoR4snTPvjC9cKQA1dO9l5OckT6mA0d1o7bDJ9fn1tP3JZdg==/live/c5eds/Canal_C/SA_Live_dash_enc/Canal_C.mpd
+
+#EXTINF:-1 tvg-id="544" tvg-name="CANAL UNIVERSIDAD DE LA PLATA" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/T-InitKP2cC1d-dputUYlQ?tags=CH_LOGO",CANAL UNIVERSIDAD DE LA PLATA
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dacf2cc920f830e14ac6e829375901b0:e24ffc362967c1725d1b91844357184d
+https://edge-live05-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTA4Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9DYW5hbF9Vbml2ZXJzaWRhZC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjU1ZTgxYTcxZGQ1YmRlNGUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzI0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.zdoSNiSh2o80B20qKrkilBJdScefpOOyLXmaMT4DZWxv6k6qb2JVj6yWXD2zAypgmmTLJKksFqJc6Bqb-5cADg==/live/c3eds/Canal_Universidad/SA_Live_dash_enc/Canal_Universidad.mpd
+
+#EXTINF:-1 tvg-id="548" tvg-name="RAFAELA NOTICIAS" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/zRxUTAv9gO-t06viyDCiNw?tags=CH_LOGO",RAFAELA NOTICIAS
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=96429225a3939cb9fc1c5e7899fc2121:20f5b5c862cd0f76c74db53f35bac790
+https://edge-live34-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTA5Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNGVkcy9Tb21vc19SYWZhZWxhL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMDFlOTI1MzUyMDVhOWU4MSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiI3OSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.FJNokmyXXoWfys8lpTL7XXc3bkVAw_NqtSnEcRaMpjURlRfzf3GMMFy_EL4KsH-YECPMsjtDmBXFaQ6tOa_-jQ==/live/c4eds/Somos_Rafaela/SA_Live_dash_enc/Somos_Rafaela.mpd
+
+#EXTINF:-1 tvg-id="551" tvg-name="RAI" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/QpZNmvX6uNlMLfxFfQXUSA?tags=CH_LOGO",RAI
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1a317277ae69bc5af3198d0808d5706:83d211b114d29f73fc7c86670fe55d0c
+https://edge-live22-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTA5Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9SQUkvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJiM2Y1ZDJhZDk1YmZiOGZhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM1MiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.Gw25RMGJzsFTLHbDYUKwWikAGvjlYdh0ZZ7BghO1IEcJt_ZyTyY80qVLZmhHtvR46KTrfmuk240kLr7Rnn_3-A==/live/c6eds/RAI/SA_Live_dash_enc/RAI.mpd
+
+#EXTINF:-1 tvg-id="552" tvg-name="BLOOMBERG" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/sneT6XQFQmrTx28ARJZS_g?tags=CH_LOGO",BLOOMBERG
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e627ea0331d29957c4f4188a4591acd:e08fd83ff31754b66ca99dc2a37af398
+https://edge-live32-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTA5Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9CbG9vbWJlcmcvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0YjllMzQwMWQyMmUwODczIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjEwMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.Fxd0_zRfD6FsvFjRCvd8n6LAc3qYhrMNq3mBkn-2_i5Efg6b5JcmjT_QIVoV8P5J9u_fAmmOPWLRFXc5Z2klsg==/live/c3eds/Bloomberg/SA_Live_dash_enc/Bloomberg.mpd
+
+#EXTINF:-1 tvg-id="553" tvg-name="TVN CHILE" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/L2pn69bAkJPMfUI3x8d3YQ?tags=CH_LOGO",TVN CHILE
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=44e6bd9d428c25bb1bc4d08af13443e3:6bd379fea45f1fe273279b0f88994ad4
+https://edge6-ccast-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTEwIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9Udl9DaGlsZS9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjVlZDA2ZjBlZjZiNDk0ZDMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjI1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.5CFCH0vOcDJz7EO7-W8bAd2kQmdfObG3voOQz16n3axVelCWtXKM_VXswzPwWmEzfqmrrCMhVFdhTLK_mq3uZA==/live/c6eds/Tv_Chile/SA_Live_dash_enc/Tv_Chile.mpd
+
+#EXTINF:-1 tvg-id="554" tvg-name="TV 5" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/rKKf3caQaDIMFqxm_JKunA?tags=CH_LOGO",TV 5
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d347434d36c4654fdd9285f5d439d119:453ee4bc51a9557e01554e13449d77ee
+https://edge-live17-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTEwIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9UVjVfTW9uZGUvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJiOWNmNmEzNTgyMjAxYzM2Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjEwNiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.dgT9Y76jTKYRaHyxLsu-M6IcPngQXlv4kQCpfAbWF4u-pCWdZP4sDtSSXD5VbTeup0MCZ2jvPLJM4ajPF7BPXA==/live/c6eds/TV5_Monde/SA_Live_dash_enc/TV5_Monde.mpd
+
+#EXTINF:-1 tvg-id="555" tvg-name="ANTENA3" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/vjeZtoj2vIp-Z4fd0MlAcA?tags=CH_LOGO",ANTENA3
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a9a898c754cddb9da22fce3ae9cd963a:f5854da52404b3eabbff4cdf1438ceff
+https://edge-live17-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTEwIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9BbnRlbmFfMy9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNiODc5NTVkZGNmYWQ0ZjgiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiNzIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.a2Cp9zuSxTXgpcW2j7_GlmckjXsrmdQHxvKgmjF1wOTTvuwxfdGJHM1aRyhWQFT1MSGG3R4Nmxb9_nFhIClFbA==/live/c6eds/Antena_3/SA_Live_dash_enc/Antena_3.mpd
+
+#EXTINF:-1 tvg-id="556" tvg-name="TELESUR" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/0tmbPj9PZJl6dbFzK03j9A?tags=CH_LOGO",TELESUR
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f17be4245a7cb8e2ab26217da9eaf4c7:a568d5b8845d5713b4cfdefe6ce2e545
+https://edge-live01-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTExIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9UZWxlc3VyL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZjg2YWZlNzc1ZmNkMDg0ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIyNDUiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.kWFGU9V6DH24F6-XqdS_jXZdud7GzVpbyf7WXGGdLMOuKZfCRkNu5YbYfVWnGOb6L9geInhnb6w7l3IxAj3PkQ==/live/c6eds/Telesur/SA_Live_dash_enc/Telesur.mpd
+
+#EXTINF:-1 tvg-id="557" tvg-name="CNN" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/w3E4muhaVmGz8sUB8zgF4w?tags=CH_LOGO",CNN
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cdef9f28233ed83d8efc9d558230fe4c:d90e7278af48ff14a1913036d9126a94
+https://edge-live17-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTExIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9DTk5fSW50ZXJuYWNpb25hbC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjI0YjA4NWQwYTNmZGEzMzIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMTA2Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.fisosizCz7zQSyge2tY84WzK2h4lwhEC3dRT4zOAXuY8Px-BuECbNjePNDo8ZZRnzjuW18w0LcHo66n_nosQYg==/live/c6eds/CNN_Internacional/SA_Live_dash_enc/CNN_Internacional.mpd
+
+#EXTINF:-1 tvg-id="558" tvg-name="BBC WORLD" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/hW1aw2LaWthLw8bmFqa0yg?tags=CH_LOGO",BBC WORLD
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe5abcb69ce6fe6d735275317046241c:917566c164adacba90d0364f31808bd8
+https://edge-live03-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTExIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9CQkNfV29ybGRfTmV3cy9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQyNzBkYTNlYWY2ZGE2ZGEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzQyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.Zekr0YCq4Hfbq72i1tEN5RsIf0ecKYGv9594FUX0Ntv7cF5Cv5LrGLldy_NCepl5Jan7ttsSnf7c1A4YQl5jbg==/live/c6eds/BBC_World_News/SA_Live_dash_enc/BBC_World_News.mpd
+
+#EXTINF:-1 tvg-id="559" tvg-name="FOX NEWS" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/AqC-VaDLCCwqJr-c5OuXhg?tags=CH_LOGO",FOX NEWS
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=488ea1defb086bbe1927cba169da7d5f:ce35b54276eadded7b8d4301b3f9cc66
+https://edge-live04-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTExIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9Gb3hfTmV3cy9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4MDFiMjllMDY0ODFhNGEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.rxZ7DB-YNCRoRqTg3FaWbRc_tSgaSVtBS-8GHm44E7j6GEKSEjZk9Jp43VtQUQbGTvyIAxWIAuhqKIs5wzdzxg==/live/c6eds/Fox_News/SA_Live_dash_enc/Fox_News.mpd
+
+#EXTINF:-1 tvg-id="560" tvg-name="AL JAZEERA" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/7mNu1_uW2plBUKIT0mE2rg?tags=CH_LOGO",AL JAZEERA
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=057b33828e9cdc4fd4dc656fca2a33a2:67b4b14e46cd980bc188bf86eb5ee102
+https://edge-live07-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTEyIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9BbGxqYXp6ZXJhL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNDJiYjg4YWQ4MzE3ZmRiNSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.6pcsOlfykwrZtRzye5JE0UdiRu87T0a06Hb1HS_89Aq6s1he2zvUHyh122LjkNhpptZAuDx9qj2lar1oifi6bg==/live/c7eds/Alljazzera/SA_Live_dash_enc/Alljazzera.mpd
+
+#EXTINF:-1 tvg-id="561" tvg-name="EURONEWS" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/XTLFR-6VygwIKTKGiHI9aQ?tags=CH_LOGO",EURONEWS
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04d36f1e6df4061c481d5734bf269aaf:4d567918139c6ca6e9a07e8cd0111a2e
+https://edge-live15-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTEyIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FdXJvbmV3cy9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNjNWFlY2E5YWQ1ZjRlNWYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMTA4Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.9OMxewwTXFHRV3v_v5Wz0PE5wHwOFSVIUC1ZyxD3skMc0yUApmZAKCQtqvfKLK5S6LYhnuRWahZZNEyaVnYoxQ==/live/c6eds/Euronews/SA_Live_dash_enc/Euronews.mpd
+
+#EXTINF:-1 tvg-id="562" tvg-name="DEUTSCHE WELLE" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/O_-a0280xePeyTh4IxQAEQ?tags=CH_LOGO",DEUTSCHE WELLE
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bb583ab165ad7646298b7091d642162:39a0ad8e7513ecfad34c60c519320095
+https://edge-live34-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTEyIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9EVy9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImNhN2ZmNjkyNTE3M2ZiYjUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiNzkiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.-Ts1NM6rKBzJoUfe6Fo9Hl1Vyjydc6oVZ_xFFmr3rNghYPEMXAXOpclzhT8Uk5y3Brat4vCkOqJTXoEqxzbkfQ==/live/c6eds/DW/SA_Live_dash_enc/DW.mpd
+
+#EXTINF:-1 tvg-id="563" tvg-name="TVE" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/G1n9QBaEFBFfEvhrX7joug?tags=CH_LOGO",TVE
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e844b25249a7447c9e6ce3821059db8d:de459a552468be246012335933ca9f3f
+https://edge-live02-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTEzIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9UVl9Fc3BhbmEvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIyZDU3ZWMxOTdjM2VkNzhiIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM2MSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.6lg5tVf4-7dLiFuXKPM9Af6e6kZLbyArdlkmQCRJcWB6NAhKGODM-1LHQgnpJx-JNKK3R673M9VqmHzWd2V46A==/live/c6eds/TV_Espana/SA_Live_dash_enc/TV_Espana.mpd
+
+#EXTINF:-1 tvg-id="564" tvg-name="GALICIA TV" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/qlzSqPcLIlK-q_66GEAdjQ?tags=CH_LOGO",GALICIA TV
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ff4f32b7b8a05f97d0aa3e28175c0ec:a4e220d4532e75ae46eca19646b4034c
+https://edge-live19-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTEzIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9Udl9HYWxpY2lhL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjA5ZjBlZjEzNGQ1MzhkZCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzNDUiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.TN2jfa5ZRCOnU0cw4ALpY_3vAMesnuSFr2phMz55ttAMy21L9XVH9AwtZKN4NSSfh7c64Lr6DfJTmcQUApkaZQ==/live/c6eds/Tv_Galicia/SA_Live_dash_enc/Tv_Galicia.mpd
+
+#EXTINF:-1 tvg-id="565" tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/_kgmFqamO2LVQh4NrsRpjA?tags=CH_LOGO",CANAL DE LAS ESTRELLAS
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=de5029988df5bb682986df4fb5ed3e70:0170fc52a8dc136055e0cfd0a77d5761
+https://edge-live22-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTEzIiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9DYW5hbF9kZV9sYXNfZXN0cmVsbGFzL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYmNjZjk1OWMwNTg4MWMwZCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzNTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.bJSso8IWNaux2X3HU4m9Ashcu_PGpG2RJOvE5pkzZ17y6-59prdOk7kQK5QWvd9N5sQ5_n1Q2uV8jONOCtbubg==/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc/Canal_de_las_estrellas.mpd
+
+#EXTINF:-1 tvg-id="566" tvg-name="ARIRANG" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/cLWixsa-M8SAPsPUbrUH_A?tags=CH_LOGO",ARIRANG
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e168612bf49a1c352e6f9bb1b805e272:704f267269f5d6086d2f9aff100c6d3a
+https://edge-vod06-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTE0Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9BcmlyYW5nL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNTFhYTE3OGY0ZGFlZDc4YSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIxMzkiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.8QMey-8LOgkbpVQREY92YCGPMxIMA7z8eaIShOlPLt9gU2aJZeIeF7fd3arV4oMvWZo5zXWziw1ZhjcKlBbQTg==/live/c7eds/Arirang/SA_Live_dash_enc/Arirang.mpd
+
+#EXTINF:-1 tvg-id="567" tvg-name="UCL" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/FZLcXJmjocdsRvGi3AIQtA?tags=CH_LOGO",UCL
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53b64575ffe3d8fd5a45f4d280ca443f:6661f8a61569d1005e9c9f79f5590562
+https://edge-live03-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTE0Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9DYW5hbF9VL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNjYyNzljYzlhMjRmZjA2ZCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzNjIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.bU-orwJgfJCqs5RBDUI1Bxi08Dlal2iPVB_0ZoTFQmrG4Qrz5cfhhxyIqJ-Zk12N_o5j0fG_mI5euV1S-QG6mw==/live/c3eds/Canal_U/SA_Live_dash_enc/Canal_U.mpd
+
+#EXTINF:-1 tvg-id="568" tvg-name="FRANCE 24" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/RPnsRnCSAXf30_8zPJvt2A?tags=CH_LOGO",FRANCE 24
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f687c6991de847a7570aaafed45ef0ef:f9ef914c2d632cdbc180d5b4828f0956
+https://edge-live15-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTE0Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9GcmFuY2VfMjQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0ZmU4NTcxMzExZTJhMDZjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjEwOCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.ka0rh9EqMrt_pbp7n_VXpdxdHySNUmIn9YpxbuRSkB2kc4K6YozsG_2E7nu9sKsyajS2T9Sbm2Q40Vai4JbbLA==/live/c6eds/France_24/SA_Live_dash_enc/France_24.mpd
+
+#EXTINF:-1 tvg-id="569" tvg-name="NEW BRASIL" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/d_FcWASM1xgeCZK84K38Tw?tags=CH_LOGO",NEW BRASIL
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=05b5f756dd02396030dbc3e7111f82cb:02a69e6b83300b34ed4635c02347b916
+https://edge-live03-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTE1Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9CYW5kZWlyYW50ZXMvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzMmZlODIwMDNjNzk2MzU4Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM2MiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.tbtDU2HEpmbqyBm10AWUijQ9k2o43vALf-04NGeayXAY5_ppufoV0y05LVXBhXmXBQgcUo5FEN8gWFGS7ErlLQ==/live/c7eds/Bandeirantes/SA_Live_dash_enc/Bandeirantes.mpd
+
+#EXTINF:-1 tvg-id="570" tvg-name="D NEWS" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/kh2tCx9k5O1X6VJZe5TKLg?tags=CH_LOGO",D NEWS
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5dcaeaa309c8d828c7731c7877158a92:423e96f5f1199b026cbab4a7521e0591
+https://edge-live17-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTE1Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9ETmV3cy9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjY5MGY3NjNhNjNiMmJjZjQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiNzIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.qVvS4SJqk5_mjQzGLrz28nEG1toaaX56u3z4Isb8W1E_4FrXez3LwyD84AKpR6Q31i3LdZR4EZ-cnp4M75UAQQ==/live/c7eds/DNews/SA_Live_dash_enc/DNews.mpd
+
+#EXTINF:-1 tvg-id="571" tvg-name="CANAL E" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/Fy-2q6VPYhYqBFQjQa1J6g?tags=CH_LOGO",CANAL E
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bbbc95ef2db831cab99b3bc29f96e14:f3755517e66c2bf8af9e7dda33a7c9ab
+https://edge-live18-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTE1Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9DYW5hbF9FY29ub21pY28vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI5OTM3ZmJiN2JiZWViNDBhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM0NCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.vqny_nnXbLB8cUWYDvsnNksNDG1y5ALEXp99ShH89eEUleXKjUWXt2QfuujZNWtD3WyU8huRdPs5OQ1G9aMwDg==/live/c7eds/Canal_Economico/SA_Live_dash_enc/Canal_Economico.mpd
+
+#EXTINF:-1 tvg-id="573" tvg-name="ARGENTINISIMA SATELITAL" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/Z_gG2HqVfQHEE4qXN_cDLA?tags=CH_LOGO",ARGENTINISIMA SATELITAL
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e9c0f045a0940b971d1067eecf629b7:923f466a008d077b21ac13ede21600a5
+https://edge-live10-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTE2Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9BcmdlbnRpbmlzaW1hL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZmNlZTI3MWIxMzg0OTdhOCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzMTUiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19._Bgw2tUDxSOokP6kvasf5tKlHJvMdfIgcIdMNOK0_fdOotKfhit7gGuPYst8E6Xdp-sGQfcyQyLlaeWlxyKBzA==/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd
+
+#EXTINF:-1 tvg-id="575" tvg-name="FRANCE 24 ESPAÑOL" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/0MsnvBPVQqPt3anDcHVdpA?tags=CH_LOGO",FRANCE 24 ESPAÑOL
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=92e2f2caa23a7b883e343b26c9f90ed1:ff145008f5c53ee75c6d3498cd778acc
+https://edge-live18-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTE2Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9GcmFuY2UyNF9GbG93L1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNTA2YmI0ZTcxNjc2OGM4NSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzNDQiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.Q8_gs1lJ37bFC5f1kxIX7UoHSJutDJ_u5-TjSMoohChm354yb6NCjBTuFa-MQXFoZ8Z9fjg7Xesj5hzoOyK8sA==/live/c3eds/France24_Flow/SA_Live_dash_enc/France24_Flow.mpd
+
+#EXTINF:-1 tvg-id="605" tvg-name="FLOW MUSIC" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/XEGMxKKr1qJpAOuMAUKKoA?tags=CH_LOGO",FLOW MUSIC
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=552c6be6b9f5bd19e76bbdfd53d2f175:78555120f3c692883dce7c89e1bebe62
+https://edge6-ccast-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNjE5OTE2Iiwic2lwIjoiMTg2LjE4LjIyMC4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9GbG93X011c2ljX1hQL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZjViZWEyYzE0NjM4MWQ5ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIyMjUiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.RqMqJ17HFrvZAkvuK6WxTPKvXgqbMcbz0gXNJe--fGKbfxBAnuagNQz4_DDK-5pNz1hFqCtBwlSExszJEXMUzQ==/live/c7eds/Flow_Music_XP/SA_Live_dash_enc/Flow_Music_XP.mpd
